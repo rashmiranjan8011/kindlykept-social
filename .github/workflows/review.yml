@@ -1,0 +1,35 @@
+# Nightly at 23:30 IST: email Ranjan (via a GitHub issue) the next day's posts to approve.
+# A reply to that email becomes a comment; the comment approves or skips posts.
+name: review
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  issue_comment:
+    types: [created]
+permissions:
+  contents: write
+  issues: write
+concurrency: review
+jobs:
+  review:
+    if: github.event_name != 'issue_comment' || github.event.comment.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ask for approval, or read the reply
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MEDIA_BASE: ${{ vars.MEDIA_BASE }}
+        run: python review.py ${{ github.event_name == 'issue_comment' && 'reply' || 'ask' }}
+      - name: Save posts.json
+        run: |
+          git config user.name "kindlykept-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add posts.json
+          git diff --cached --quiet && exit 0
+          git commit -m "approval update"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 5; done; exit 1
