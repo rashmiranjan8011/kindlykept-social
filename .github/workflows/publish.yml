@@ -1,0 +1,40 @@
+# Every 15 minutes: post APPROVED items that are due to Instagram (and Pinterest once PIN_TOKEN exists).
+name: publish
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: publish
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check the Instagram token (manual runs only)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python publisher.py --check
+      - name: Post approved items that are due
+        env:
+          MEDIA_BASE: ${{ vars.MEDIA_BASE }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          PIN_TOKEN: ${{ secrets.PIN_TOKEN }}
+          PIN_BOARD: ${{ secrets.PIN_BOARD }}
+        run: python publisher.py
+      - name: Save the posted log
+        if: always()
+        run: |
+          git config user.name "kindlykept-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add posted.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "posted log"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 5; done; exit 1
