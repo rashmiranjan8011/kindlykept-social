@@ -31,7 +31,7 @@ data = json.load(open(os.path.join(HERE, "posts.json"), encoding="utf-8"))
 log_path = os.path.join(HERE, "posted.json")
 log = json.load(open(log_path, encoding="utf-8")) if os.path.exists(log_path) else {}
 env = os.environ.get
-BASE = (env("MEDIA_BASE") or "").rstrip("/")
+BASE = (env("MEDIA_BASE") or "https://rashmiranjan8011.github.io/kindlykept-social").rstrip("/")
 
 
 def call(url, params=None, method="POST", headers=None, body=None):
