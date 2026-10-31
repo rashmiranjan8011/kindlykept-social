@@ -1,9 +1,10 @@
 """Kindly Kept auto-publisher: posts APPROVED items from posts.json to Instagram and Pinterest when they are due.
 
 python publisher.py --dry-run      show what is due and what would be posted (no network calls)
+python publisher.py --check        test the Instagram token (read only)
 python publisher.py                post everything due (run by GitHub Actions every 15 minutes)
 
-Only posts with "status": "approved" are ever published (Ranjan approves each batch).
+Only posts with "status": "approved" are ever published (Ranjan approves by replying to the email, see review.py).
 Due = the post's date + time (US Eastern) is in the past. Results are recorded in posted.json,
 so nothing is posted twice.
 
@@ -20,7 +21,9 @@ from zoneinfo import ZoneInfo
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ET = ZoneInfo("America/New_York")
-IG = "https://graph.instagram.com/v21.0"
+# Instagram Login tokens start with "IG" (graph.instagram.com); Facebook / unified-login tokens use graph.facebook.com.
+IG = ("https://graph.instagram.com/v21.0" if (os.environ.get("IG_TOKEN") or "IG").startswith("IG")
+      else "https://graph.facebook.com/v21.0")
 PIN = "https://api.pinterest.com/v5"
 DRY = "--dry-run" in sys.argv
 
@@ -78,8 +81,13 @@ def ig_publish(p):
                 for i in range(1, len(p["slides"]) + 1)]
         cid = ig_container({"media_type": "CAROUSEL", "children": ",".join(kids), "caption": caption(p)})
     else:
-        cid = ig_container({"image_url": f"{BASE}/png/{pid}.png", "caption": caption(p),
-                            **({"alt_text": p["alt"]} if p.get("alt") else {})})
+        img = {"image_url": f"{BASE}/png/{pid}.png", "caption": caption(p)}
+        try:
+            cid = ig_container({**img, **({"alt_text": p["alt"]} if p.get("alt") else {})})
+        except RuntimeError as e:   # older API versions reject alt_text: post without it
+            if "alt_text" not in str(e):
+                raise
+            cid = ig_container(img)
     return call(f"{IG}/{env('IG_USER_ID')}/media_publish", {"creation_id": cid, "access_token": env("IG_TOKEN")})["id"]
 
 
@@ -96,6 +104,11 @@ def refresh_ig_token():
     return call(f"{IG.rsplit('/', 1)[0]}/refresh_access_token",
                 {"grant_type": "ig_refresh_token", "access_token": env("IG_TOKEN")}, "GET")["access_token"]
 
+
+if "--check" in sys.argv:   # run by hand from GitHub: proves the token works, posts nothing
+    me = call(f"{IG}/{env('IG_USER_ID')}", {"fields": "username", "access_token": env("IG_TOKEN")}, "GET")
+    print("Instagram token OK for @" + me["username"], "via", IG)
+    sys.exit(0)
 
 now = datetime.now(timezone.utc)
 if "--now" in sys.argv:   # testing: python publisher.py --dry-run --now 2026-11-02T10:00  (US Eastern)
