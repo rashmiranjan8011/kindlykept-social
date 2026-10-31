@@ -108,6 +108,11 @@ def refresh_ig_token():
 if "--check" in sys.argv:   # run by hand from GitHub: proves the token works, posts nothing
     me = call(f"{IG}/{env('IG_USER_ID')}", {"fields": "username", "access_token": env("IG_TOKEN")}, "GET")
     print("Instagram token OK for @" + me["username"], "via", IG)
+    if "facebook" in IG:      # Facebook-style token: ask Meta when it expires (never prints the token)
+        d = call(f"{IG}/debug_token", {"input_token": env("IG_TOKEN"), "access_token": env("IG_TOKEN")}, "GET")["data"]
+        fmt = lambda ts: "never" if not ts else datetime.fromtimestamp(ts, timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+        print("Token type:", d.get("type"), "| valid:", d.get("is_valid"), "| expires:", fmt(d.get("expires_at")),
+              "| data access expires:", fmt(d.get("data_access_expires_at")), "| scopes:", ",".join(d.get("scopes", [])))
     sys.exit(0)
 
 now = datetime.now(timezone.utc)
