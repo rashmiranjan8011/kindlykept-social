@@ -4,76 +4,200 @@
   "hashtags": "#caregiver #caregiving #familycaregiver #agingparents #caregiversupport #eldercare #sandwichgeneration",
   "posts": [
     {
-      "id": "r01", "format": "reel", "seconds": 10, "date": "2026-11-01", "time": "09:00", "status": "draft",
+      "id": "r01",
+      "format": "reel",
+      "seconds": 10,
+      "date": "2026-11-01",
+      "time": "09:00",
+      "status": "draft",
       "caption": "Caring for Mom or Dad means carrying a hundred small things in your head: the pills, the refills, the appointments, the group chat.\n\nThis is your sign to put it all in one place your whole family can see.\n\nThe Family Care Kit works in Google Sheets, Excel and on paper. Link in bio.",
       "tags": "#caregiverlife #getorganized",
-      "alt": "Sticky notes about a parent's medicines and appointments fly away and are replaced by a family care dashboard."
+      "alt": "Sticky notes about a parent's medicines and appointments fly away and are replaced by a family care dashboard.",
+      "issue": 1
     },
     {
-      "id": "01", "format": "single", "date": "2026-11-01", "time": "19:00", "status": "draft", "layout": "hero", "pin": true,
+      "id": "01",
+      "format": "single",
+      "date": "2026-11-01",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "hero",
+      "pin": true,
       "kick": "Meet Kindly Kept",
       "title": "Caring for Mom or Dad? Keep it all in one place.",
       "lead": "Medicines, appointments, emergency info and who does what, shared by the whole family.",
-      "images": ["Dashboard.png", "Emergency-Pack-1.png"],
+      "images": [
+        "Dashboard.png",
+        "Emergency-Pack-1.png"
+      ],
       "caption": "When Mom or Dad needs more help, the details pile up fast: pills, refills, doctor visits, who is driving on Tuesday, who paid for what.\n\nWe made The Family Care Kit so your family can keep all of it in one shared place, in Google Sheets, Excel or on paper.\n\nFollow along for simple, practical caregiving tips. The kit is at the link in our bio.",
       "tags": "#medicationtracker #caregiverbinder",
       "pin_title": "Caregiver Binder and Medication Tracker for Aging Parents (Google Sheets + Printable)",
       "pin_desc": "Keep Mom or Dad's medicines, appointments, emergency info and family tasks in one shared place. Family Care Kit: Google Sheets and Excel caregiver organizer, printable caregiver binder and emergency pack."
     },
     {
-      "id": "c01", "format": "carousel", "date": "2026-11-02", "time": "09:00", "status": "draft",
+      "id": "c01",
+      "format": "carousel",
+      "date": "2026-11-02",
+      "time": "09:00",
+      "status": "draft",
       "slides": [
-        {"layout": "cover", "kick": "November is Family Caregivers Month", "title": "If you're caring for a parent, you're not alone.", "lead": "Five things every family caregiver should hear."},
-        {"layout": "point", "badge": "1", "title": "You're the one who remembers.", "text": "The pills, the refills, the appointment at 10:30. It lives in your head, all day long."},
-        {"layout": "point", "badge": "2", "title": "You're doing two jobs.", "text": "Work, home, and now Mom or Dad. Of course you're tired."},
-        {"layout": "point", "badge": "3", "title": "It's okay to ask for help.", "text": "Brothers, sisters, neighbors, friends. Most people want to help. They just need to be told how."},
-        {"layout": "point", "badge": "4", "title": "Write it down once.", "text": "When everything is in one shared place, you stop being the only person who knows."},
-        {"layout": "cta", "title": "Save this for a hard day.", "text": "And send it to someone who is caring for a parent right now."}
+        {
+          "layout": "cover",
+          "kick": "November is Family Caregivers Month",
+          "title": "If you're caring for a parent, you're not alone.",
+          "lead": "Five things every family caregiver should hear."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "You're the one who remembers.",
+          "text": "The pills, the refills, the appointment at 10:30. It lives in your head, all day long."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "You're doing two jobs.",
+          "text": "Work, home, and now Mom or Dad. Of course you're tired."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "It's okay to ask for help.",
+          "text": "Brothers, sisters, neighbors, friends. Most people want to help. They just need to be told how."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Write it down once.",
+          "text": "When everything is in one shared place, you stop being the only person who knows."
+        },
+        {
+          "layout": "cta",
+          "title": "Save this for a hard day.",
+          "text": "And send it to someone who is caring for a parent right now."
+        }
       ],
       "caption": "November is Family Caregivers Month. If you are the one keeping track of Mom or Dad's care, this is for you.\n\nSave it for a hard day, and share it with someone who needs to hear it.",
       "tags": "#familycaregiversmonth #caregiverawareness",
       "alt": "Carousel: five things every family caregiver should hear."
     },
     {
-      "id": "03", "format": "single", "date": "2026-11-02", "time": "19:00", "status": "draft", "layout": "tip", "pin": true,
+      "id": "03",
+      "format": "single",
+      "date": "2026-11-02",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "tip",
+      "pin": true,
       "kick": "Caregiver tip",
       "title": "5 things to keep on the fridge for an emergency",
-      "list": ["Every medicine and its dose", "Allergies and main health conditions", "Doctor and pharmacy phone numbers", "Two family contacts who can decide", "Insurance details and where the papers are"],
-      "images": ["Emergency-Pack-1.png"],
+      "list": [
+        "Every medicine and its dose",
+        "Allergies and main health conditions",
+        "Doctor and pharmacy phone numbers",
+        "Two family contacts who can decide",
+        "Insurance details and where the papers are"
+      ],
+      "images": [
+        "Emergency-Pack-1.png"
+      ],
       "caption": "In an emergency, paramedics or a neighbor need answers in seconds. A single sheet on the fridge gives them.\n\nWant our free fridge sheet? Comment FRIDGE and we will send it to you.\n\nSave this list, and take ten minutes this week to fill it in for your parent.",
       "tags": "#emergencypreparedness #seniorsafety",
       "pin_title": "What to Keep on the Fridge for an Elderly Parent's Emergency (Free Printable)",
       "pin_desc": "Emergency info sheet checklist for aging parents: medicines and doses, allergies, doctor and pharmacy numbers, family contacts, insurance. Free printable emergency fridge sheet for caregivers."
     },
     {
-      "id": "r02", "format": "reel", "seconds": 15, "date": "2026-11-03", "time": "09:00", "status": "draft",
+      "id": "r02",
+      "format": "reel",
+      "seconds": 15,
+      "date": "2026-11-03",
+      "time": "09:00",
+      "status": "draft",
       "caption": "Tag the sibling who answers every single one of these.\n\nWhen the whole family shares one plan, the questions stop landing on one person. Medicines, appointments, who is on duty, who paid for what: everyone can open it and see.\n\nThe Family Care Kit. Link in bio.",
       "tags": "#siblings #caregiverlife #familygroupchat",
       "alt": "A flood of family group chat messages about a parent's care, replaced by one shared care dashboard."
     },
     {
-      "id": "02", "format": "single", "date": "2026-11-03", "time": "19:00", "status": "draft", "layout": "shot", "pin": true,
+      "id": "02",
+      "format": "single",
+      "date": "2026-11-03",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "shot",
+      "pin": true,
       "kick": "The Today dashboard",
       "title": "Everything for today, on one screen",
       "lead": "Next appointment, refills due, overdue tasks, who is on duty and which medicines are still to give.",
-      "images": ["Dashboard.png"],
+      "images": [
+        "Dashboard.png"
+      ],
       "caption": "Open one tab in the morning and know what today needs.\n\nThe dashboard fills itself in from the rest of the Family Care Hub, so nobody has to ask \"did she take her pills?\" or \"when is the next appointment?\"\n\nWorks in Google Sheets and Excel. Link in bio.",
       "tags": "#googlesheets #familyorganizer",
       "pin_title": "Caregiver Dashboard Spreadsheet: Medicines, Appointments and Tasks at a Glance",
       "pin_desc": "A Google Sheets and Excel caregiver dashboard that fills itself in: next appointment, refills due, overdue tasks, who is on duty and today's medicines for Mom or Dad."
     },
     {
-      "id": "c02", "format": "carousel", "date": "2026-11-04", "time": "09:00", "status": "draft", "pin": true,
+      "id": "c02",
+      "format": "carousel",
+      "date": "2026-11-04",
+      "time": "09:00",
+      "status": "draft",
+      "pin": true,
       "slides": [
-        {"layout": "cover", "kick": "Save this", "title": "7 signs Mom or Dad may need more help at home", "lead": "Small changes are often the first clue."},
-        {"layout": "point", "badge": "1", "title": "Unopened mail and unpaid bills", "text": "Piles on the table, late notices, or the same bill paid twice."},
-        {"layout": "point", "badge": "2", "title": "Pills left over, or running out early", "text": "Count what is left in the bottles against what should be left."},
-        {"layout": "point", "badge": "3", "title": "An empty or out-of-date fridge", "text": "Skipped meals and spoiled food can mean cooking has become hard."},
-        {"layout": "point", "badge": "4", "title": "New dents on the car", "text": "Scrapes and dents can be an early sign that driving is getting harder."},
-        {"layout": "point", "badge": "5", "title": "Missed appointments", "text": "Forgotten visits, or not remembering what the doctor said."},
-        {"layout": "point", "badge": "6", "title": "A home that looks different", "text": "Clutter, laundry piling up, the same clothes day after day."},
-        {"layout": "point", "badge": "7", "title": "Bruises or stories of falls", "text": "Even a small fall is worth mentioning to their doctor."},
-        {"layout": "cta", "title": "Noticed one or two?", "text": "Start a gentle conversation, write down what you see, and talk to their doctor."}
+        {
+          "layout": "cover",
+          "kick": "Save this",
+          "title": "7 signs Mom or Dad may need more help at home",
+          "lead": "Small changes are often the first clue."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "Unopened mail and unpaid bills",
+          "text": "Piles on the table, late notices, or the same bill paid twice."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Pills left over, or running out early",
+          "text": "Count what is left in the bottles against what should be left."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "An empty or out-of-date fridge",
+          "text": "Skipped meals and spoiled food can mean cooking has become hard."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "New dents on the car",
+          "text": "Scrapes and dents can be an early sign that driving is getting harder."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Missed appointments",
+          "text": "Forgotten visits, or not remembering what the doctor said."
+        },
+        {
+          "layout": "point",
+          "badge": "6",
+          "title": "A home that looks different",
+          "text": "Clutter, laundry piling up, the same clothes day after day."
+        },
+        {
+          "layout": "point",
+          "badge": "7",
+          "title": "Bruises or stories of falls",
+          "text": "Even a small fall is worth mentioning to their doctor."
+        },
+        {
+          "layout": "cta",
+          "title": "Noticed one or two?",
+          "text": "Start a gentle conversation, write down what you see, and talk to their doctor."
+        }
       ],
       "caption": "Many families only notice these when they visit after a long gap, like at Thanksgiving.\n\nNone of them means something is wrong on its own. Together, they are a sign to start a gentle conversation and talk to the doctor.\n\nSave this and share it with your brothers and sisters.",
       "tags": "#agingparents #seniorcare #elderlyparents",
@@ -82,32 +206,104 @@
       "pin_desc": "Warning signs an elderly parent may need help: unpaid bills, medication mix-ups, empty fridge, car dents, missed appointments, cluttered home, falls. A caregiver checklist for families."
     },
     {
-      "id": "04", "format": "single", "date": "2026-11-04", "time": "19:00", "status": "draft", "layout": "shot", "pin": true,
+      "id": "04",
+      "format": "single",
+      "date": "2026-11-04",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "shot",
+      "pin": true,
       "kick": "Medications",
       "title": "Never miss a refill",
       "lead": "List each medicine once. Refill status works itself out: OK, due soon, refill now.",
-      "images": ["Medications.png", "Medicine-Cards.png"],
+      "images": [
+        "Medications.png",
+        "Medicine-Cards.png"
+      ],
       "caption": "Running out of a medicine on a Sunday is stressful for everyone.\n\nIn the Family Care Hub you enter the last refill date and days of supply once. It shows what is due soon and what is overdue, and the dashboard flags it every day.\n\nAn organizer to help families keep track. Always follow your doctor's and pharmacist's instructions.",
       "tags": "#medicationtracker #medicationmanagement",
       "pin_title": "Medication Tracker Spreadsheet with Refill Reminders for Elderly Parents",
       "pin_desc": "Track every medicine, dose and refill date for Mom or Dad in Google Sheets or Excel. Refill status updates by itself: OK, due soon, refill now. Printable medicine cards included."
     },
     {
-      "id": "r03", "format": "reel", "seconds": 10, "date": "2026-11-05", "time": "09:00", "status": "draft",
+      "id": "r03",
+      "format": "reel",
+      "seconds": 10,
+      "date": "2026-11-05",
+      "time": "09:00",
+      "status": "draft",
       "caption": "No formulas to learn. Fill in the tabs once and the Today dashboard does the rest: next appointment, refills due, who is on duty, doses given.\n\nGoogle Sheets or Excel. Link in bio.",
       "tags": "#googlesheets #spreadsheet #caregiverlife",
       "alt": "A tour of the Family Care Hub dashboard zooming into appointments, refills, who is on duty and doses given."
     },
     {
-      "id": "c03", "format": "carousel", "date": "2026-11-05", "time": "19:00", "status": "draft", "pin": true,
+      "id": "c03",
+      "format": "carousel",
+      "date": "2026-11-05",
+      "time": "19:00",
+      "status": "draft",
+      "pin": true,
       "slides": [
-        {"layout": "cover", "kick": "Swipe to see inside", "title": "What's inside The Family Care Kit", "lead": "One download. Excel, Google Sheets and print.", "images": ["Dashboard.png"]},
-        {"layout": "shot", "kick": "Family Care Hub", "title": "A Today dashboard that fills itself in", "images": ["Dashboard.png"]},
-        {"layout": "shot", "kick": "Medications", "title": "Refill alerts and medicine cards", "images": ["Medications.png", "Medicine-Cards.png"]},
-        {"layout": "shot", "kick": "Family", "title": "Help sign-up and cost split", "images": ["Help-Sign-up.png", "Expenses.png"]},
-        {"layout": "pages", "kick": "Emergency Pack", "title": "Fridge sheet, hospital page, wallet cards", "images": ["Emergency-Pack-1.png", "Emergency-Pack-2.png", "Emergency-Pack-4.png"]},
-        {"layout": "pages", "kick": "Family Care Binder", "title": "21 printable and fillable pages", "images": ["Binder-cover.png", "Binder-today.png", "Binder-bp.png"]},
-        {"layout": "cta", "title": "Launch price $19", "text": "Regular $29, until November 30. Link in bio."}
+        {
+          "layout": "cover",
+          "kick": "Swipe to see inside",
+          "title": "What's inside The Family Care Kit",
+          "lead": "One download. Excel, Google Sheets and print.",
+          "images": [
+            "Dashboard.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "Family Care Hub",
+          "title": "A Today dashboard that fills itself in",
+          "images": [
+            "Dashboard.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "Medications",
+          "title": "Refill alerts and medicine cards",
+          "images": [
+            "Medications.png",
+            "Medicine-Cards.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "Family",
+          "title": "Help sign-up and cost split",
+          "images": [
+            "Help-Sign-up.png",
+            "Expenses.png"
+          ]
+        },
+        {
+          "layout": "pages",
+          "kick": "Emergency Pack",
+          "title": "Fridge sheet, hospital page, wallet cards",
+          "images": [
+            "Emergency-Pack-1.png",
+            "Emergency-Pack-2.png",
+            "Emergency-Pack-4.png"
+          ]
+        },
+        {
+          "layout": "pages",
+          "kick": "Family Care Binder",
+          "title": "21 printable and fillable pages",
+          "images": [
+            "Binder-cover.png",
+            "Binder-today.png",
+            "Binder-bp.png"
+          ]
+        },
+        {
+          "layout": "cta",
+          "title": "Launch price $19",
+          "text": "Regular $29, until November 30. Link in bio."
+        }
       ],
       "caption": "Everything in one download:\n\n1. Family Care Hub (18 tabs, Google Sheets and Excel)\n2. Emergency Pack (4 printable pages)\n3. Family Care Binder (21 pages, printable and fillable)\n4. Care Plan and 5 family email templates\n5. Start Here guide\n\nPay once, no subscription. Launch price $19 until November 30. Link in bio.",
       "tags": "#caregiverbinder #medicationtracker #digitalplanner",
@@ -116,7 +312,12 @@
       "pin_desc": "Everything to organize care for an aging parent: Google Sheets and Excel family care hub, printable caregiver binder, emergency pack, care plan and family email templates. Instant download."
     },
     {
-      "id": "s10", "format": "single", "date": "2026-11-06", "time": "09:00", "status": "draft", "layout": "quote",
+      "id": "s10",
+      "format": "single",
+      "date": "2026-11-06",
+      "time": "09:00",
+      "status": "draft",
+      "layout": "quote",
       "title": "You can't pour from an empty cup. Check in on the person doing the caring.",
       "lead": "Tag someone who needs to hear this today.",
       "caption": "Caregivers spend all day asking how someone else is doing. Today, ask them.\n\nA text, a coffee, an hour off. It matters more than you think.",
@@ -124,23 +325,77 @@
       "alt": "Quote: You can't pour from an empty cup. Check in on the person doing the caring."
     },
     {
-      "id": "r04", "format": "reel", "seconds": 15, "date": "2026-11-06", "time": "19:00", "status": "draft",
+      "id": "r04",
+      "format": "reel",
+      "seconds": 15,
+      "date": "2026-11-06",
+      "time": "19:00",
+      "status": "draft",
       "caption": "If Mom or Dad needed an ambulance tonight, would the paramedics know their medicines?\n\nOur free \"In an emergency\" fridge sheet takes ten minutes to fill in. Comment FRIDGE and we will send it to you.",
       "tags": "#emergencypreparedness #freeprintable #seniorsafety",
       "alt": "An emergency information sheet for an elderly parent is pinned to a fridge, with a free download offer."
     },
     {
-      "id": "c04", "format": "carousel", "date": "2026-11-07", "time": "09:00", "status": "draft", "pin": true,
+      "id": "c04",
+      "format": "carousel",
+      "date": "2026-11-07",
+      "time": "09:00",
+      "status": "draft",
+      "pin": true,
       "slides": [
-        {"layout": "cover", "kick": "Save this checklist", "title": "The first 7 days after a parent's hospital stay", "lead": "What to do, day by day, when Mom or Dad comes home."},
-        {"layout": "point", "badge": "Day 1", "title": "Understand the discharge papers", "text": "Before you leave, ask the nurse to walk you through them. Write down who to call with questions."},
-        {"layout": "point", "badge": "Day 1", "title": "Pick up new prescriptions", "text": "On the way home, so there is no gap the first night."},
-        {"layout": "point", "badge": "Day 2", "title": "Update the medicine list", "text": "Compare the old list with the new one. Put away anything the doctor stopped."},
-        {"layout": "point", "badge": "Day 2", "title": "Book the follow-up visit", "text": "The discharge papers say when. Add it to the family calendar."},
-        {"layout": "point", "badge": "Day 3", "title": "Make the home safer", "text": "Clear the paths, add night lights, and keep the phone within reach."},
-        {"layout": "point", "badge": "Day 4", "title": "Share the visits", "text": "Agree who checks in each day, so nobody does it all alone."},
-        {"layout": "point", "badge": "Day 7", "title": "Check how it's going", "text": "Eating, sleeping, moving? Look again at the warning signs on the papers, and call the doctor if anything worries you."},
-        {"layout": "cta", "title": "Keep it all in one place", "text": "The Family Care Kit has a medicine list, calendar and hospital handoff page. Link in bio."}
+        {
+          "layout": "cover",
+          "kick": "Save this checklist",
+          "title": "The first 7 days after a parent's hospital stay",
+          "lead": "What to do, day by day, when Mom or Dad comes home."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 1",
+          "title": "Understand the discharge papers",
+          "text": "Before you leave, ask the nurse to walk you through them. Write down who to call with questions."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 1",
+          "title": "Pick up new prescriptions",
+          "text": "On the way home, so there is no gap the first night."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 2",
+          "title": "Update the medicine list",
+          "text": "Compare the old list with the new one. Put away anything the doctor stopped."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 2",
+          "title": "Book the follow-up visit",
+          "text": "The discharge papers say when. Add it to the family calendar."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 3",
+          "title": "Make the home safer",
+          "text": "Clear the paths, add night lights, and keep the phone within reach."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 4",
+          "title": "Share the visits",
+          "text": "Agree who checks in each day, so nobody does it all alone."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 7",
+          "title": "Check how it's going",
+          "text": "Eating, sleeping, moving? Look again at the warning signs on the papers, and call the doctor if anything worries you."
+        },
+        {
+          "layout": "cta",
+          "title": "Keep it all in one place",
+          "text": "The Family Care Kit has a medicine list, calendar and hospital handoff page. Link in bio."
+        }
       ],
       "caption": "Coming home from the hospital is when families feel most lost. This is the checklist we wish someone had handed us.\n\nSave it now so you have it when you need it. Always follow the discharge instructions and the care team's advice.",
       "tags": "#hospitaldischarge #agingparents #caregivertips",
@@ -149,56 +404,112 @@
       "pin_desc": "A day-by-day caregiver checklist after an elderly parent's hospital stay: discharge papers, new prescriptions, medicine list, follow-up visit, home safety, family visits."
     },
     {
-      "id": "05", "format": "single", "date": "2026-11-07", "time": "19:00", "status": "draft", "layout": "pages", "pin": true,
+      "id": "05",
+      "format": "single",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "pages",
+      "pin": true,
       "kick": "Emergency Pack",
       "title": "Ready when it matters",
       "lead": "Print, fill in, keep on the fridge. Hand the hospital page to the nurse.",
-      "images": ["Emergency-Pack-1.png", "Emergency-Pack-2.png", "Emergency-Pack-4.png"],
+      "images": [
+        "Emergency-Pack-1.png",
+        "Emergency-Pack-2.png",
+        "Emergency-Pack-4.png"
+      ],
       "caption": "Four printable pages for the moments you hope never come:\n\n1. \"In an emergency\" fridge sheet\n2. Going to the hospital handoff\n3. Taking over today, for whoever covers a shift\n4. Fold-over wallet cards\n\nPart of The Family Care Kit. Link in bio.",
       "tags": "#emergencyplan #caregiverbinder",
       "pin_title": "Printable Emergency Pack for Elderly Parents: Fridge Sheet, Hospital Page, Wallet Cards",
       "pin_desc": "Printable emergency info for aging parents: In an emergency fridge sheet, going to the hospital handoff, shift handoff and fold-over wallet cards. Part of the Family Care Kit."
     },
     {
-      "id": "06", "format": "single", "date": "2026-11-08", "time": "19:00", "status": "draft", "layout": "tip", "pin": true,
+      "id": "06",
+      "format": "single",
+      "date": "2026-11-08",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "tip",
+      "pin": true,
       "kick": "Caregiver tip",
       "title": "What to bring to a doctor's appointment",
-      "list": ["The full medicine list, with doses", "Blood pressure or sugar readings since the last visit", "Your questions, written down", "Insurance card and photo ID", "Someone to take notes, or a notebook"],
-      "images": ["Binder-today.png"],
+      "list": [
+        "The full medicine list, with doses",
+        "Blood pressure or sugar readings since the last visit",
+        "Your questions, written down",
+        "Insurance card and photo ID",
+        "Someone to take notes, or a notebook"
+      ],
+      "images": [
+        "Binder-today.png"
+      ],
       "caption": "Appointments go fast. Walking in prepared means you leave with answers, not more questions.\n\nSave this for the next visit. Comment DOCTOR for our free question sheet.",
       "tags": "#doctorsappointment #agingparents",
       "pin_title": "What to Bring to an Elderly Parent's Doctor Appointment (Caregiver Checklist)",
       "pin_desc": "Doctor visit checklist for caregivers: medicine list with doses, blood pressure and sugar readings, written questions, insurance card and ID, and someone to take notes."
     },
     {
-      "id": "07", "format": "single", "date": "2026-11-15", "time": "19:00", "status": "draft", "layout": "shot", "pin": true,
+      "id": "07",
+      "format": "single",
+      "date": "2026-11-15",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "shot",
+      "pin": true,
       "kick": "Share the care",
       "title": "Who paid what, and who owes whom",
       "lead": "Log costs as they happen. The split works itself out, so money never becomes the argument.",
-      "images": ["Expenses.png", "Help-Sign-up.png"],
+      "images": [
+        "Expenses.png",
+        "Help-Sign-up.png"
+      ],
       "caption": "Caring for a parent with brothers and sisters? Costs add up quietly: pharmacy, groceries, gas, a carer for the afternoon.\n\nThe Expenses tab shows who paid what and who owes whom. The Help Sign-up lets everyone pick a meal, a ride or a visit.\n\nLink in bio.",
       "tags": "#siblings #familycare",
       "pin_title": "Caregiving Cost Split Spreadsheet for Siblings: Who Paid What, Who Owes Whom",
       "pin_desc": "Split the costs of caring for an aging parent fairly between siblings. Google Sheets and Excel expense tracker with automatic balances, plus a family help sign-up sheet."
     },
     {
-      "id": "08", "format": "single", "date": "2026-11-19", "time": "19:00", "status": "draft", "layout": "pages", "pin": true,
+      "id": "08",
+      "format": "single",
+      "date": "2026-11-19",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "pages",
+      "pin": true,
       "kick": "Family Care Binder",
       "title": "21 printable pages",
       "lead": "For anyone who likes pen and paper. Printable, or fill it in on a computer.",
-      "images": ["Binder-cover.png", "Binder-today.png", "Binder-bp.png"],
+      "images": [
+        "Binder-cover.png",
+        "Binder-today.png",
+        "Binder-bp.png"
+      ],
       "caption": "Not everyone in the family wants a spreadsheet. The binder has 21 US Letter pages: medicine list, weekly dose record, blood pressure chart, \"Today with Mom\", month calendar, night log and more.\n\nPrint it, or type into the fillable PDF.",
       "tags": "#printableplanner #caregiverbinder",
       "pin_title": "Printable Caregiver Binder: 21 Pages for Elderly Parent Care (Fillable PDF)",
       "pin_desc": "Caregiver binder printables: medication list, weekly dose record, blood pressure log, daily care page, calendar, care tasks, contacts and more. US Letter, printable and fillable PDF."
     },
     {
-      "id": "09", "format": "single", "date": "2026-11-22", "time": "19:00", "status": "draft", "layout": "offer", "pin": true,
+      "id": "09",
+      "format": "single",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "offer",
+      "pin": true,
       "kick": "The Family Care Kit",
       "title": "One kit. Excel, Google Sheets and print.",
-      "list": ["Family Care Hub, 18 tabs", "Emergency Pack, 4 pages", "Family Care Binder, 21 pages", "Care Plan and 5 family email templates"],
+      "list": [
+        "Family Care Hub, 18 tabs",
+        "Emergency Pack, 4 pages",
+        "Family Care Binder, 21 pages",
+        "Care Plan and 5 family email templates"
+      ],
       "offer": "Launch price $19 (regular $29) until Nov 30",
-      "images": ["Dashboard.png"],
+      "images": [
+        "Dashboard.png"
+      ],
       "caption": "Everything in one download: the Family Care Hub, Emergency Pack, printable binder, care plan and family email templates. Pay once, no subscription. Your information stays in your own computer or Google account.\n\nLaunch price $19 (regular $29) until November 30. Link in bio.",
       "tags": "#caregiverbinder #medicationtracker",
       "pin_title": "The Family Care Kit: Everything to Organize Care for Mom or Dad",
