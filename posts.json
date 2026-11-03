@@ -119,7 +119,8 @@
       "status": "draft",
       "caption": "Tag the sibling who answers every single one of these.\n\nWhen the whole family shares one plan, the questions stop landing on one person. Medicines, appointments, who is on duty, who paid for what: everyone can open it and see.\n\nThe Family Care Kit. Link in bio.",
       "tags": "#siblings #caregiverlife #familygroupchat",
-      "alt": "A flood of family group chat messages about a parent's care, replaced by one shared care dashboard."
+      "alt": "A flood of family group chat messages about a parent's care, replaced by one shared care dashboard.",
+      "issue": 4
     },
     {
       "id": "02",
@@ -138,7 +139,8 @@
       "caption": "Open one tab in the morning and know what today needs.\n\nThe dashboard fills itself in from the rest of the Family Care Hub, so nobody has to ask \"did she take her pills?\" or \"when is the next appointment?\"\n\nWorks in Google Sheets and Excel. Link in bio.",
       "tags": "#googlesheets #familyorganizer",
       "pin_title": "Caregiver Dashboard Spreadsheet: Medicines, Appointments and Tasks at a Glance",
-      "pin_desc": "A Google Sheets and Excel caregiver dashboard that fills itself in: next appointment, refills due, overdue tasks, who is on duty and today's medicines for Mom or Dad."
+      "pin_desc": "A Google Sheets and Excel caregiver dashboard that fills itself in: next appointment, refills due, overdue tasks, who is on duty and today's medicines for Mom or Dad.",
+      "issue": 4
     },
     {
       "id": "c02",
