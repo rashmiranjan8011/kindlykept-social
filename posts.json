@@ -147,7 +147,7 @@
       "format": "carousel",
       "date": "2026-11-04",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "pin": true,
       "slides": [
         {
@@ -216,7 +216,7 @@
       "format": "single",
       "date": "2026-11-04",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "shot",
       "pin": true,
       "kick": "Medications",
