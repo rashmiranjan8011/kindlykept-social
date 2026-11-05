@@ -331,7 +331,8 @@
       "lead": "Tag someone who needs to hear this today.",
       "caption": "Caregivers spend all day asking how someone else is doing. Today, ask them.\n\nA text, a coffee, an hour off. It matters more than you think.",
       "tags": "#caregiverselfcare #selfcare #caregiversupport",
-      "alt": "Quote: You can't pour from an empty cup. Check in on the person doing the caring."
+      "alt": "Quote: You can't pour from an empty cup. Check in on the person doing the caring.",
+      "issue": 7
     },
     {
       "id": "r04",
@@ -342,7 +343,8 @@
       "status": "draft",
       "caption": "If Mom or Dad needed an ambulance tonight, would the paramedics know their medicines?\n\nOur free \"In an emergency\" fridge sheet takes ten minutes to fill in. Comment FRIDGE and we will send it to you.",
       "tags": "#emergencypreparedness #freeprintable #seniorsafety",
-      "alt": "An emergency information sheet for an elderly parent is pinned to a fridge, with a free download offer."
+      "alt": "An emergency information sheet for an elderly parent is pinned to a fridge, with a free download offer.",
+      "issue": 7
     },
     {
       "id": "c04",
