@@ -1,1589 +1,1591 @@
 {
- "note": "Kindly Kept social posts. build.py renders singles to png/<id>.png, carousels to png/<id>-<n>.png, reels to reels/<id>.mp4, and Pinterest pins (pin: true) to pins/<id>.png. Times are US Eastern. status: draft -> approved -> scheduled -> posted.",
- "link": "https://rashmiranjan8.gumroad.com/l/family-care-kit/CARE10",
- "hashtags": "#caregiver #caregiving #familycaregiver #agingparents #caregiversupport #eldercare #sandwichgeneration",
- "posts": [
-  {
-   "id": "r01",
-   "format": "reel",
-   "seconds": 10,
-   "date": "2026-11-01",
-   "time": "09:00",
-   "status": "approved",
-   "caption": "Caring for Mom or Dad means carrying a hundred small things in your head: the pills, the refills, the appointments, the group chat.\n\nThis is your sign to put it all in one place your whole family can see.\n\nThe Family Care Kit works in Google Sheets, Excel and on paper. Link in bio.",
-   "tags": "#caregiverlife #getorganized",
-   "alt": "Sticky notes about a parent's medicines and appointments fly away and are replaced by a family care dashboard.",
-   "issue": 1
-  },
-  {
-   "id": "c01",
-   "format": "carousel",
-   "date": "2026-11-02",
-   "time": "09:00",
-   "status": "approved",
-   "slides": [
+  "note": "Kindly Kept social posts. build.py renders singles to png/<id>.png, carousels to png/<id>-<n>.png, reels to reels/<id>.mp4, and Pinterest pins (pin: true) to pins/<id>.png. Times are US Eastern. status: draft -> approved -> scheduled -> posted.",
+  "link": "https://rashmiranjan8.gumroad.com/l/family-care-kit/CARE10",
+  "hashtags": "#caregiver #caregiving #familycaregiver #agingparents #caregiversupport #eldercare #sandwichgeneration",
+  "posts": [
     {
-     "layout": "cover",
-     "kick": "November is Family Caregivers Month",
-     "title": "If you're caring for a parent, you're not alone.",
-     "lead": "Five things every family caregiver should hear."
+      "id": "r01",
+      "format": "reel",
+      "seconds": 10,
+      "date": "2026-11-01",
+      "time": "09:00",
+      "status": "approved",
+      "caption": "Caring for Mom or Dad means carrying a hundred small things in your head: the pills, the refills, the appointments, the group chat.\n\nThis is your sign to put it all in one place your whole family can see.\n\nThe Family Care Kit works in Google Sheets, Excel and on paper. Link in bio.",
+      "tags": "#caregiverlife #getorganized",
+      "alt": "Sticky notes about a parent's medicines and appointments fly away and are replaced by a family care dashboard.",
+      "issue": 1
     },
     {
-     "layout": "point",
-     "badge": "1",
-     "title": "You're the one who remembers.",
-     "text": "The pills, the refills, the appointment at 10:30. It lives in your head, all day long."
+      "id": "c01",
+      "format": "carousel",
+      "date": "2026-11-02",
+      "time": "09:00",
+      "status": "approved",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "November is Family Caregivers Month",
+          "title": "If you're caring for a parent, you're not alone.",
+          "lead": "Five things every family caregiver should hear."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "You're the one who remembers.",
+          "text": "The pills, the refills, the appointment at 10:30. It lives in your head, all day long."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "You're doing two jobs.",
+          "text": "Work, home, and now Mom or Dad. Of course you're tired."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "It's okay to ask for help.",
+          "text": "Brothers, sisters, neighbors, friends. Most people want to help. They just need to be told how."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Write it down once.",
+          "text": "When everything is in one shared place, you stop being the only person who knows."
+        },
+        {
+          "layout": "cta",
+          "title": "Save this for a hard day.",
+          "text": "And send it to someone who is caring for a parent right now."
+        }
+      ],
+      "caption": "November is Family Caregivers Month. If you are the one keeping track of Mom or Dad's care, this is for you.\n\nSave it for a hard day, and share it with someone who needs to hear it.",
+      "tags": "#familycaregiversmonth #caregiverawareness",
+      "alt": "Carousel: five things every family caregiver should hear.",
+      "issue": 3
     },
     {
-     "layout": "point",
-     "badge": "2",
-     "title": "You're doing two jobs.",
-     "text": "Work, home, and now Mom or Dad. Of course you're tired."
+      "id": "03",
+      "format": "single",
+      "date": "2026-11-02",
+      "time": "19:00",
+      "status": "approved",
+      "layout": "tip",
+      "pin": true,
+      "kick": "Caregiver tip",
+      "title": "5 things to keep on the fridge for an emergency",
+      "list": [
+        "Every medicine and its dose",
+        "Allergies and main health conditions",
+        "Doctor and pharmacy phone numbers",
+        "Two family contacts who can decide",
+        "Insurance details and where the papers are"
+      ],
+      "images": [
+        "Emergency-Pack-1.png"
+      ],
+      "caption": "In an emergency, paramedics or a neighbor need answers in seconds. A single sheet on the fridge gives them.\n\nWant our free fridge sheet? Comment FRIDGE and we will send it to you.\n\nSave this list, and take ten minutes this week to fill it in for your parent.",
+      "tags": "#emergencypreparedness #seniorsafety",
+      "pin_title": "What to Keep on the Fridge for an Elderly Parent's Emergency (Free Printable)",
+      "pin_desc": "Emergency info sheet checklist for aging parents: medicines and doses, allergies, doctor and pharmacy numbers, family contacts, insurance. Free printable emergency fridge sheet for caregivers.",
+      "issue": 3
     },
     {
-     "layout": "point",
-     "badge": "3",
-     "title": "It's okay to ask for help.",
-     "text": "Brothers, sisters, neighbors, friends. Most people want to help. They just need to be told how."
+      "id": "r02",
+      "format": "reel",
+      "seconds": 15,
+      "date": "2026-11-03",
+      "time": "09:00",
+      "status": "approved",
+      "caption": "Tag the sibling who answers every single one of these.\n\nWhen the whole family shares one plan, the questions stop landing on one person. Medicines, appointments, who is on duty, who paid for what: everyone can open it and see.\n\nThe Family Care Kit. Link in bio.",
+      "tags": "#siblings #caregiverlife #familygroupchat",
+      "alt": "A flood of family group chat messages about a parent's care, replaced by one shared care dashboard.",
+      "issue": 4
     },
     {
-     "layout": "point",
-     "badge": "4",
-     "title": "Write it down once.",
-     "text": "When everything is in one shared place, you stop being the only person who knows."
+      "id": "02",
+      "format": "single",
+      "date": "2026-11-03",
+      "time": "19:00",
+      "status": "approved",
+      "layout": "shot",
+      "pin": true,
+      "kick": "The Today dashboard",
+      "title": "Everything for today, on one screen",
+      "lead": "Next appointment, refills due, overdue tasks, who is on duty and which medicines are still to give.",
+      "images": [
+        "Dashboard.png"
+      ],
+      "caption": "Open one tab in the morning and know what today needs.\n\nThe dashboard fills itself in from the rest of the Family Care Hub, so nobody has to ask \"did she take her pills?\" or \"when is the next appointment?\"\n\nWorks in Google Sheets and Excel. Link in bio.",
+      "tags": "#googlesheets #familyorganizer",
+      "pin_title": "Caregiver Dashboard Spreadsheet: Medicines, Appointments and Tasks at a Glance",
+      "pin_desc": "A Google Sheets and Excel caregiver dashboard that fills itself in: next appointment, refills due, overdue tasks, who is on duty and today's medicines for Mom or Dad.",
+      "issue": 4
     },
     {
-     "layout": "cta",
-     "title": "Save this for a hard day.",
-     "text": "And send it to someone who is caring for a parent right now."
+      "id": "c02",
+      "format": "carousel",
+      "date": "2026-11-04",
+      "time": "09:00",
+      "status": "approved",
+      "pin": true,
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Save this",
+          "title": "7 signs Mom or Dad may need more help at home",
+          "lead": "Small changes are often the first clue."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "Unopened mail and unpaid bills",
+          "text": "Piles on the table, late notices, or the same bill paid twice."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Pills left over, or running out early",
+          "text": "Count what is left in the bottles against what should be left."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "An empty or out-of-date fridge",
+          "text": "Skipped meals and spoiled food can mean cooking has become hard."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "New dents on the car",
+          "text": "Scrapes and dents can be an early sign that driving is getting harder."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Missed appointments",
+          "text": "Forgotten visits, or not remembering what the doctor said."
+        },
+        {
+          "layout": "point",
+          "badge": "6",
+          "title": "A home that looks different",
+          "text": "Clutter, laundry piling up, the same clothes day after day."
+        },
+        {
+          "layout": "point",
+          "badge": "7",
+          "title": "Bruises or stories of falls",
+          "text": "Even a small fall is worth mentioning to their doctor."
+        },
+        {
+          "layout": "cta",
+          "title": "Noticed one or two?",
+          "text": "Start a gentle conversation, write down what you see, and talk to their doctor."
+        }
+      ],
+      "caption": "Many families only notice these when they visit after a long gap, like at Thanksgiving.\n\nNone of them means something is wrong on its own. Together, they are a sign to start a gentle conversation and talk to the doctor.\n\nSave this and share it with your brothers and sisters.",
+      "tags": "#agingparents #seniorcare #elderlyparents",
+      "alt": "Carousel: seven signs an aging parent may need more help at home.",
+      "pin_title": "7 Signs Your Aging Parent Needs More Help at Home (Checklist for Adult Children)",
+      "pin_desc": "Warning signs an elderly parent may need help: unpaid bills, medication mix-ups, empty fridge, car dents, missed appointments, cluttered home, falls. A caregiver checklist for families.",
+      "issue": 5
+    },
+    {
+      "id": "04",
+      "format": "single",
+      "date": "2026-11-04",
+      "time": "19:00",
+      "status": "approved",
+      "layout": "shot",
+      "pin": true,
+      "kick": "Medications",
+      "title": "Never miss a refill",
+      "lead": "List each medicine once. Refill status works itself out: OK, due soon, refill now.",
+      "images": [
+        "Medications.png",
+        "Medicine-Cards.png"
+      ],
+      "caption": "Running out of a medicine on a Sunday is stressful for everyone.\n\nIn the Family Care Hub you enter the last refill date and days of supply once. It shows what is due soon and what is overdue, and the dashboard flags it every day.\n\nAn organizer to help families keep track. Always follow your doctor's and pharmacist's instructions.",
+      "tags": "#medicationtracker #medicationmanagement",
+      "pin_title": "Medication Tracker Spreadsheet with Refill Reminders for Elderly Parents",
+      "pin_desc": "Track every medicine, dose and refill date for Mom or Dad in Google Sheets or Excel. Refill status updates by itself: OK, due soon, refill now. Printable medicine cards included.",
+      "issue": 5
+    },
+    {
+      "id": "s10",
+      "format": "single",
+      "date": "2026-11-06",
+      "time": "09:00",
+      "status": "approved",
+      "layout": "quote",
+      "title": "You can't pour from an empty cup. Check in on the person doing the caring.",
+      "lead": "Tag someone who needs to hear this today.",
+      "caption": "Caregivers spend all day asking how someone else is doing. Today, ask them.\n\nA text, a coffee, an hour off. It matters more than you think.",
+      "tags": "#caregiverselfcare #selfcare #caregiversupport",
+      "alt": "Quote: You can't pour from an empty cup. Check in on the person doing the caring.",
+      "issue": 7
+    },
+    {
+      "id": "r04",
+      "format": "reel",
+      "seconds": 15,
+      "date": "2026-11-06",
+      "time": "19:00",
+      "status": "approved",
+      "caption": "If Mom or Dad needed an ambulance tonight, would the paramedics know their medicines?\n\nOur free \"In an emergency\" fridge sheet takes ten minutes to fill in. Comment FRIDGE and we will send it to you.",
+      "tags": "#emergencypreparedness #freeprintable #seniorsafety",
+      "alt": "An emergency information sheet for an elderly parent is pinned to a fridge, with a free download offer.",
+      "issue": 7
+    },
+    {
+      "id": "c04",
+      "format": "carousel",
+      "date": "2026-11-07",
+      "time": "09:00",
+      "status": "approved",
+      "pin": true,
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Save this checklist",
+          "title": "The first 7 days after a parent's hospital stay",
+          "lead": "What to do, day by day, when Mom or Dad comes home."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 1",
+          "title": "Understand the discharge papers",
+          "text": "Before you leave, ask the nurse to walk you through them. Write down who to call with questions."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 1",
+          "title": "Pick up new prescriptions",
+          "text": "On the way home, so there is no gap the first night."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 2",
+          "title": "Update the medicine list",
+          "text": "Compare the old list with the new one. Put away anything the doctor stopped."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 2",
+          "title": "Book the follow-up visit",
+          "text": "The discharge papers say when. Add it to the family calendar."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 3",
+          "title": "Make the home safer",
+          "text": "Clear the paths, add night lights, and keep the phone within reach."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 4",
+          "title": "Share the visits",
+          "text": "Agree who checks in each day, so nobody does it all alone."
+        },
+        {
+          "layout": "point",
+          "badge": "Day 7",
+          "title": "Check how it's going",
+          "text": "Eating, sleeping, moving? Look again at the warning signs on the papers, and call the doctor if anything worries you."
+        },
+        {
+          "layout": "cta",
+          "title": "Keep it all in one place",
+          "text": "The Family Care Kit has a medicine list, calendar and hospital handoff page. Link in bio."
+        }
+      ],
+      "caption": "Coming home from the hospital is when families feel most lost. This is the checklist we wish someone had handed us.\n\nSave it now so you have it when you need it. Always follow the discharge instructions and the care team's advice.",
+      "tags": "#hospitaldischarge #agingparents #caregivertips",
+      "alt": "Carousel: a day-by-day checklist for the first week after a parent comes home from hospital.",
+      "pin_title": "Hospital Discharge Checklist for Aging Parents: The First 7 Days at Home",
+      "pin_desc": "A day-by-day caregiver checklist after an elderly parent's hospital stay: discharge papers, new prescriptions, medicine list, follow-up visit, home safety, family visits.",
+      "issue": 8
+    },
+    {
+      "id": "05",
+      "format": "single",
+      "date": "2026-11-07",
+      "time": "19:00",
+      "status": "approved",
+      "layout": "pages",
+      "pin": true,
+      "kick": "Emergency Pack",
+      "title": "Ready when it matters",
+      "lead": "Print, fill in, keep on the fridge. Hand the hospital page to the nurse.",
+      "images": [
+        "Emergency-Pack-1.png",
+        "Emergency-Pack-2.png",
+        "Emergency-Pack-4.png"
+      ],
+      "caption": "Four printable pages for the moments you hope never come:\n\n1. \"In an emergency\" fridge sheet\n2. Going to the hospital handoff\n3. Taking over today, for whoever covers a shift\n4. Fold-over wallet cards\n\nPart of The Family Care Kit. Link in bio.",
+      "tags": "#emergencyplan #caregiverbinder",
+      "pin_title": "Printable Emergency Pack for Elderly Parents: Fridge Sheet, Hospital Page, Wallet Cards",
+      "pin_desc": "Printable emergency info for aging parents: In an emergency fridge sheet, going to the hospital handoff, shift handoff and fold-over wallet cards. Part of the Family Care Kit.",
+      "issue": 8
+    },
+    {
+      "id": "06",
+      "format": "single",
+      "date": "2026-11-08",
+      "time": "19:00",
+      "status": "approved",
+      "layout": "tip",
+      "pin": true,
+      "kick": "Caregiver tip",
+      "title": "What to bring to a doctor's appointment",
+      "list": [
+        "The full medicine list, with doses",
+        "Blood pressure or sugar readings since the last visit",
+        "Your questions, written down",
+        "Insurance card and photo ID",
+        "Someone to take notes, or a notebook"
+      ],
+      "images": [
+        "Binder-today.png"
+      ],
+      "caption": "Appointments go fast. Walking in prepared means you leave with answers, not more questions.\n\nSave this for the next visit. Comment DOCTOR for our free question sheet.",
+      "tags": "#doctorsappointment #agingparents",
+      "pin_title": "What to Bring to an Elderly Parent's Doctor Appointment (Caregiver Checklist)",
+      "pin_desc": "Doctor visit checklist for caregivers: medicine list with doses, blood pressure and sugar readings, written questions, insurance card and ID, and someone to take notes.",
+      "issue": 9
+    },
+    {
+      "id": "r03",
+      "format": "reel",
+      "seconds": 10,
+      "date": "2026-11-11",
+      "time": "09:00",
+      "status": "draft",
+      "caption": "No formulas to learn. Fill in the tabs once and the Today dashboard does the rest: next appointment, refills due, who is on duty, doses given.\n\nGoogle Sheets or Excel. Link in bio.",
+      "tags": "#googlesheets #spreadsheet #caregiverlife",
+      "alt": "A tour of the Family Care Hub dashboard zooming into appointments, refills, who is on duty and doses given.",
+      "issue": 10
+    },
+    {
+      "id": "01",
+      "format": "single",
+      "date": "2026-11-11",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "hero",
+      "pin": true,
+      "kick": "Meet Kindly Kept",
+      "title": "Caring for Mom or Dad? Keep it all in one place.",
+      "lead": "Medicines, appointments, emergency info and who does what, shared by the whole family.",
+      "images": [
+        "Dashboard.png",
+        "Emergency-Pack-1.png"
+      ],
+      "caption": "When Mom or Dad needs more help, the details pile up fast: pills, refills, doctor visits, who is driving on Tuesday, who paid for what.\n\nWe made The Family Care Kit so your family can keep all of it in one shared place, in Google Sheets, Excel or on paper.\n\nFollow along for simple, practical caregiving tips. The kit is at the link in our bio.",
+      "tags": "#medicationtracker #caregiverbinder",
+      "pin_title": "Caregiver Binder and Medication Tracker for Aging Parents (Google Sheets + Printable)",
+      "pin_desc": "Keep Mom or Dad's medicines, appointments, emergency info and family tasks in one shared place. Family Care Kit: Google Sheets and Excel caregiver organizer, printable caregiver binder and emergency pack.",
+      "issue": 10
+    },
+    {
+      "id": "n01",
+      "format": "single",
+      "date": "2026-11-12",
+      "time": "09:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "This is Emily. She works from her kitchen table, her mom Margaret lives two hours away, and her brother Josh is mostly on the family group chat.\n\nIf that sounds like your family, follow along this month. We will share what Emily learns about caring for Mom, one small step at a time.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#caregiverstory #caringformom",
+      "alt": "Emily, a woman in her early 40s, at her kitchen table with a laptop and her phone.",
+      "kick": "Meet Emily",
+      "title": "Her mom lives two hours away. Her phone never stops.",
+      "lead": "Follow her this month as she gets Mom's care in order.",
+      "images": [
+        "emily/main.jpg"
+      ]
+    },
+    {
+      "id": "n02",
+      "format": "carousel",
+      "date": "2026-11-12",
+      "time": "19:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Save this",
+          "title": "Your parent's medicine list: what to write for every pill",
+          "lead": "Six details. Paramedics, doctors and pharmacists ask for all of them."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "The name",
+          "text": "Brand and generic name, exactly as on the label."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "The strength",
+          "text": "For example 5 mg. Many medicines come in more than one."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "When it is taken",
+          "text": "Morning, night, with food? Write the real routine."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "What it is for",
+          "text": "Blood pressure, sleep, pain. One or two words is enough."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Who prescribed it",
+          "text": "Doctor's name, so questions go to the right place."
+        },
+        {
+          "layout": "point",
+          "badge": "6",
+          "title": "Pharmacy and refill date",
+          "text": "Where it comes from and when it runs out."
+        },
+        {
+          "layout": "cta",
+          "title": "Keep it where the family can see it",
+          "text": "The Family Care Kit has a medicine list that flags refills for you. Link in bio."
+        }
+      ],
+      "caption": "Ask any family who has been in an emergency room: the first question is always \"What medicines does she take?\"\n\nWrite these six details for every pill, and keep one copy at home and one on your phone. Save this post for when you sit down to do it.\n\nAn organizer, not medical advice.",
+      "tags": "#medicationlist #medicationtracker",
+      "alt": "Carousel: six details to write down for every medicine a parent takes.",
+      "pin": true,
+      "pin_title": "Medication List for Elderly Parents: 6 Things to Write for Every Pill",
+      "pin_desc": "What to write on an aging parent's medicine list: name, strength, timing, purpose, prescriber, pharmacy and refill date. Free caregiver checklist."
+    },
+    {
+      "id": "c03",
+      "format": "carousel",
+      "date": "2026-11-13",
+      "time": "09:00",
+      "status": "draft",
+      "pin": true,
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Swipe to see inside",
+          "title": "What's inside The Family Care Kit",
+          "lead": "One download. Excel, Google Sheets and print.",
+          "images": [
+            "Dashboard.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "Family Care Hub",
+          "title": "A Today dashboard that fills itself in",
+          "images": [
+            "Dashboard.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "Medications",
+          "title": "Refill alerts and medicine cards",
+          "images": [
+            "Medications.png",
+            "Medicine-Cards.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "Family",
+          "title": "Help sign-up and cost split",
+          "images": [
+            "Help-Sign-up.png",
+            "Expenses.png"
+          ]
+        },
+        {
+          "layout": "pages",
+          "kick": "Emergency Pack",
+          "title": "Fridge sheet, hospital page, wallet cards",
+          "images": [
+            "Emergency-Pack-1.png",
+            "Emergency-Pack-2.png",
+            "Emergency-Pack-4.png"
+          ]
+        },
+        {
+          "layout": "pages",
+          "kick": "Family Care Binder",
+          "title": "21 printable and fillable pages",
+          "images": [
+            "Binder-cover.png",
+            "Binder-today.png",
+            "Binder-bp.png"
+          ]
+        },
+        {
+          "layout": "cta",
+          "title": "$29, or $19 with CARE10",
+          "text": "First 50 families, until November 30. Link in bio."
+        }
+      ],
+      "caption": "Everything in one download:\n\n1. Family Care Hub (18 tabs, Google Sheets and Excel)\n2. Emergency Pack (4 printable pages)\n3. Family Care Binder (21 pages, printable and fillable)\n4. Care Plan and 5 family email templates\n5. Start Here guide\n\nPay once, no subscription. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
+      "tags": "#caregiverbinder #medicationtracker #digitalplanner",
+      "alt": "Carousel showing each part of the Family Care Kit.",
+      "pin_title": "Family Care Kit: Caregiver Binder, Medication Tracker and Emergency Pack",
+      "pin_desc": "Everything to organize care for an aging parent: Google Sheets and Excel family care hub, printable caregiver binder, emergency pack, care plan and family email templates. Instant download."
+    },
+    {
+      "id": "n03",
+      "format": "single",
+      "date": "2026-11-13",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "quote",
+      "caption": "Remembering the refills, the appointments, the insurance call, the birthday card for the nurse. It is real work, even when nobody calls it that.\n\nIf this is you, we see you.",
+      "tags": "#caregiverlife #invisiblework",
+      "alt": "Quote: Being the one who remembers everything is a full-time job. Nobody gave you the title.",
+      "title": "Being the one who remembers everything is a full-time job. Nobody gave you the title.",
+      "lead": "Tag the person in your family who carries it."
+    },
+    {
+      "id": "n04",
+      "format": "reel",
+      "seconds": 20,
+      "date": "2026-11-14",
+      "time": "09:00",
+      "status": "draft",
+      "caption": "Next time you visit Mom or Dad, look quietly at three things: the pill box, the fridge and the mail pile.\n\nDon't make it a big talk. Just notice, write it down, and share it with the family.\n\nSave this for your Thanksgiving visit.\n\nAn organizer, not medical advice.",
+      "tags": "#thanksgivingvisit #agingparents",
+      "alt": "Three things to check on a visit to an aging parent: the pill box, the fridge and the mail pile."
+    },
+    {
+      "id": "n05",
+      "format": "carousel",
+      "date": "2026-11-14",
+      "time": "19:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Pack it before you need it",
+          "title": "A hospital bag for Mom or Dad",
+          "lead": "Six things that save hours when you are in a hurry."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "Medicine list and allergies",
+          "text": "Printed. Nurses will ask in the first five minutes."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Insurance cards",
+          "text": "Copies of both sides, plus a photo on your phone."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Doctor and pharmacy numbers",
+          "text": "Names, phones and the main doctor's clinic."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Glasses, hearing aids, chargers",
+          "text": "And a long phone cable. Outlets are far from the bed."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Comfortable clothes",
+          "text": "Non-slip socks, a cardigan, something to go home in."
+        },
+        {
+          "layout": "point",
+          "badge": "6",
+          "title": "A notebook and pen",
+          "text": "Write down what each doctor says, with the time."
+        },
+        {
+          "layout": "cta",
+          "title": "Pack it this weekend",
+          "text": "Our Emergency Pack has a one-page hospital sheet to print and put on top. Link in bio."
+        }
+      ],
+      "caption": "Nobody plans a hospital trip. But you can plan the bag.\n\nPack these six things for your parent this weekend and keep the bag by the door or in the closet. Save this and share it with your siblings.",
+      "tags": "#hospitalbag #emergencypreparedness",
+      "alt": "Carousel: six things to pack in a hospital bag for an aging parent.",
+      "pin": true,
+      "pin_title": "Hospital Bag Checklist for Elderly Parents: 6 Things to Pack",
+      "pin_desc": "What to pack in a hospital bag for an aging parent: medicine list, insurance cards, doctor numbers, glasses and hearing aids, clothes, notebook."
+    },
+    {
+      "id": "n06",
+      "format": "single",
+      "date": "2026-11-15",
+      "time": "09:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "Sunday night, and Emily's head is full again: Mom's refill, Josh's question, Tuesday's appointment.\n\nThe list belongs to the whole family. It just needs somewhere to live that isn't one person's memory.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#caregiverstress #sundaynight",
+      "alt": "Emily, tired, leaning her head on her hand at the kitchen table.",
+      "kick": "Sunday night",
+      "title": "The to-do list belongs to the whole family. So why does it live in your head?",
+      "lead": "Write it down once. Share it.",
+      "images": [
+        "emily/tired.jpg"
+      ]
+    },
+    {
+      "id": "07",
+      "format": "single",
+      "date": "2026-11-15",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "shot",
+      "pin": true,
+      "kick": "Share the care",
+      "title": "Who paid what, and who owes whom",
+      "lead": "Log costs as they happen. The split works itself out, so money never becomes the argument.",
+      "images": [
+        "Expenses.png",
+        "Help-Sign-up.png"
+      ],
+      "caption": "Caring for a parent with brothers and sisters? Costs add up quietly: pharmacy, groceries, gas, a carer for the afternoon.\n\nThe Expenses tab shows who paid what and who owes whom. The Help Sign-up lets everyone pick a meal, a ride or a visit.\n\nLink in bio.",
+      "tags": "#siblings #familycare",
+      "pin_title": "Caregiving Cost Split Spreadsheet for Siblings: Who Paid What, Who Owes Whom",
+      "pin_desc": "Split the costs of caring for an aging parent fairly between siblings. Google Sheets and Excel expense tracker with automatic balances, plus a family help sign-up sheet."
+    },
+    {
+      "id": "n07",
+      "format": "carousel",
+      "date": "2026-11-16",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Save for the next appointment",
+          "title": "5 questions to ask at Mom's next doctor visit",
+          "lead": "Write the answers down before you leave the room."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "What should we watch at home?",
+          "text": "The one or two signs that mean \"call us\"."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Has any medicine changed?",
+          "text": "New, stopped, or a new dose. Update the list today."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Which side effects matter?",
+          "text": "What is normal, and what is worth a call."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "When do we come back?",
+          "text": "And are there tests to do before then?"
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Who do we call after hours?",
+          "text": "A number for nights and weekends."
+        },
+        {
+          "layout": "cta",
+          "title": "One page, every visit",
+          "text": "Keep the answers with the medicine list, so the whole family knows. Link in bio."
+        }
+      ],
+      "caption": "Appointments go fast, and it is easy to walk out and forget half of it.\n\nTake these five questions with you, write the answers down, and share them with the family the same day.\n\nAn organizer, not medical advice.",
+      "tags": "#doctorsappointment #caregivertips",
+      "alt": "Carousel: five questions to ask at a parent's doctor visit.",
+      "pin": true,
+      "pin_title": "5 Questions to Ask at Your Parent's Doctor Appointment",
+      "pin_desc": "Caregiver checklist for doctor visits: what to watch at home, medicine changes, side effects, follow-up and after-hours numbers."
+    },
+    {
+      "id": "n08",
+      "format": "single",
+      "date": "2026-11-16",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "Emily started with three things: Mom's medicines, her doctors, and who to call. It took her twenty minutes.\n\nYou don't have to do it all tonight. Start with those three.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#getorganized #caregivertips",
+      "alt": "Emily, focused, typing on her laptop at the kitchen table.",
+      "kick": "Tonight",
+      "title": "Twenty minutes tonight saves hours of guessing later.",
+      "lead": "Medicines, doctors, contacts. Start with those three.",
+      "images": [
+        "emily/focused.jpg"
+      ]
+    },
+    {
+      "id": "e-r1",
+      "format": "reel",
+      "seconds": 30,
+      "date": "2026-11-17",
+      "time": "09:00",
+      "status": "draft",
+      "caption": "2:14 a.m. The phone rings. Mom fell, and the paramedics are asking what she takes.\n\nEmily loves her mom. She calls every Sunday. She still didn't know.\n\nWould you? Write it down this week, and put a copy on the fridge.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#caregiverstory #emergencypreparedness",
+      "alt": "Emily's story: a 2 a.m. call about her mom's fall, and the medicine list she couldn't answer."
+    },
+    {
+      "id": "e-c1",
+      "format": "carousel",
+      "date": "2026-11-17",
+      "time": "19:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Emily's story",
+          "title": "At 2 a.m., the paramedics asked Emily one question. She couldn't answer.",
+          "images": [
+            "emily/anxious.jpg"
+          ]
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "What medicines does she take?",
+          "text": "Name, dose and when. The question everyone asks first."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Any allergies?",
+          "text": "Medicines and foods."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Who is her doctor?",
+          "text": "Name and phone number."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Any recent hospital stays or surgeries?",
+          "text": "With rough dates."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Who can make decisions for her?",
+          "text": "And where are the papers?"
+        },
+        {
+          "layout": "cta",
+          "title": "Put the answers on one sheet on the fridge",
+          "text": "Comment FRIDGE and we will send you ours, free."
+        }
+      ],
+      "caption": "Five questions paramedics ask in the first minutes. Could you answer them for your mom or dad tonight?\n\nComment FRIDGE and we will send you our free fridge sheet.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#emergencypreparedness #seniorsafety",
+      "alt": "Carousel: five questions paramedics ask about a parent, and a free fridge sheet.",
+      "pin": true,
+      "pin_title": "5 Questions Paramedics Ask About Your Parent (Free Fridge Sheet)",
+      "pin_desc": "Be ready for an emergency with an aging parent: medicines, allergies, doctor, recent hospital stays and who can make decisions. Free printable fridge sheet."
+    },
+    {
+      "id": "e-s1",
+      "format": "single",
+      "date": "2026-11-18",
+      "time": "09:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "\"I'm fine, sweetheart.\" Emily has heard it a hundred times. Some days it is true.\n\nThe trick is knowing which days. A few notes each week, shared with the family, make the pattern easier to see.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#caringformom #agingparents",
+      "alt": "Emily on her phone, listening to her mom, with a worried half-smile.",
+      "kick": "Every caregiver knows this sentence",
+      "title": "“I'm fine, sweetheart.”",
+      "lead": "Some days it's true. A few notes a week help you tell which days.",
+      "images": [
+        "emily/main.jpg"
+      ]
+    },
+    {
+      "id": "e-r2",
+      "format": "reel",
+      "seconds": 35,
+      "date": "2026-11-18",
+      "time": "19:00",
+      "status": "draft",
+      "caption": "Tag the sibling who asks this every single day.\n\nNobody knew if Mom took Thursday's pills. Not Emily, not Josh, not even Mom. So Emily made one plan the whole family can see.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#siblings #familygroupchat",
+      "alt": "Emily's story: the family group chat about Mom's pills, and one shared care plan."
+    },
+    {
+      "id": "e-c2",
+      "format": "carousel",
+      "date": "2026-11-19",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Emily's story",
+          "title": "Emily did everything. Josh lived 600 miles away. Here's how they fixed it.",
+          "images": [
+            "emily/focused.jpg"
+          ]
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "Write down every job",
+          "text": "Even the small ones: the pharmacy call, the birthday card."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Josh takes the far-away jobs",
+          "text": "Bills, pharmacy calls, insurance, booking appointments."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Emily takes the close-by jobs",
+          "text": "Visits, driving to appointments, the weekly check-in."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "One shared calendar",
+          "text": "So nobody has to ask \"who's going?\""
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Split the costs in the open",
+          "text": "Who paid what, and who owes whom."
+        },
+        {
+          "layout": "shot",
+          "kick": "One plan, shared",
+          "title": "Help sign-up and cost split, in one place",
+          "images": [
+            "Help-Sign-up.png",
+            "Expenses.png"
+          ]
+        }
+      ],
+      "caption": "Living far away doesn't mean you can't help. It means you help differently.\n\nSave this for your next sibling call. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#siblings #longdistancecaregiver",
+      "alt": "Carousel: how a brother and sister split their mom's care, with the kit's help sign-up and cost split.",
+      "pin": true,
+      "pin_title": "How Siblings Can Share Care for an Aging Parent (Even From Far Away)",
+      "pin_desc": "Split caregiving fairly between siblings: list every job, far-away jobs vs close-by jobs, one shared calendar, and an open cost split."
+    },
+    {
+      "id": "08",
+      "format": "single",
+      "date": "2026-11-19",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "pages",
+      "pin": true,
+      "kick": "Family Care Binder",
+      "title": "21 printable pages",
+      "lead": "For anyone who likes pen and paper. Printable, or fill it in on a computer.",
+      "images": [
+        "Binder-cover.png",
+        "Binder-today.png",
+        "Binder-bp.png"
+      ],
+      "caption": "Not everyone in the family wants a spreadsheet. The binder has 21 US Letter pages: medicine list, weekly dose record, blood pressure chart, \"Today with Mom\", month calendar, night log and more.\n\nPrint it, or type into the fillable PDF.",
+      "tags": "#printableplanner #caregiverbinder",
+      "pin_title": "Printable Caregiver Binder: 21 Pages for Elderly Parent Care (Fillable PDF)",
+      "pin_desc": "Caregiver binder printables: medication list, weekly dose record, blood pressure log, daily care page, calendar, care tasks, contacts and more. US Letter, printable and fillable PDF."
+    },
+    {
+      "id": "e-r3",
+      "format": "reel",
+      "seconds": 25,
+      "date": "2026-11-20",
+      "time": "09:00",
+      "status": "draft",
+      "caption": "One quiet Sunday morning, twenty minutes, and every bottle on the table.\n\nThree days later the pharmacy called Josh. For once, Emily had the answer in seconds.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#sundayreset #medicationtracker",
+      "alt": "Emily spends twenty minutes writing down her mom's medicines, then answers her brother's question in seconds."
+    },
+    {
+      "id": "e-s2",
+      "format": "single",
+      "date": "2026-11-20",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "Two hours of highway between Emily and her mom. She can't drop by. So she needs to know: the refills, the visits, how Mom slept.\n\nIf you care for a parent from far away, you are not doing it less. You are doing it differently.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#longdistancecaregiver #caringformom",
+      "alt": "Emily, emotional, with a hand over her eyes at the kitchen table.",
+      "kick": "Two hours away",
+      "title": "Caring for Mom from far away means knowing everything without being there.",
+      "images": [
+        "emily/moved.jpg"
+      ]
+    },
+    {
+      "id": "e-c3",
+      "format": "carousel",
+      "date": "2026-11-21",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Emily's story",
+          "title": "The day Mom went to hospital, Emily spent 3 hours looking for papers.",
+          "images": [
+            "emily/tired.jpg"
+          ]
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "Insurance and Medicare cards",
+          "text": "Photos of both sides, saved where the family can find them."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Power of attorney and healthcare proxy",
+          "text": "Who has the originals, and where."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Medicine list and allergies",
+          "text": "Up to date, one copy at home."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Doctors and pharmacy",
+          "text": "Names, phones, addresses."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Bank, bills and passwords",
+          "text": "Where they are kept. Not the passwords themselves."
+        },
+        {
+          "layout": "pages",
+          "kick": "Write down where each paper lives",
+          "title": "Today, not on the day you need it",
+          "images": [
+            "Emergency-Pack-1.png",
+            "Emergency-Pack-2.png",
+            "Emergency-Pack-4.png"
+          ]
+        }
+      ],
+      "caption": "You don't need to have every paper in your hands. You need to know where each one lives.\n\nSave this, and take ten minutes this weekend to write it down with your parent.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#importantdocuments #eldercareplanning",
+      "alt": "Carousel: five papers to locate for an aging parent before an emergency.",
+      "pin": true,
+      "pin_title": "5 Important Papers to Find for Your Aging Parent Before an Emergency",
+      "pin_desc": "Insurance and Medicare cards, power of attorney, healthcare proxy, medicine list, doctors, and where bank and bill papers are kept."
+    },
+    {
+      "id": "e-s3",
+      "format": "single",
+      "date": "2026-11-21",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "Emily asks Mom every day if she ate. Today Josh asked Emily.\n\nThis one is for the caregiver. Eat something warm. Sit for five minutes. The list will wait.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#caregiverselfcare #selfcare",
+      "alt": "Emily with her hand on her chest, smiling softly at her phone.",
+      "kick": "A gentle reminder",
+      "title": "You ask Mom if she ate. Did you?",
+      "images": [
+        "emily/relieved.jpg"
+      ]
+    },
+    {
+      "id": "e-c4",
+      "format": "carousel",
+      "date": "2026-11-22",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Emily's story",
+          "title": "Every Sunday, Emily does this for 20 minutes. Her week got calmer.",
+          "images": [
+            "emily/happy.jpg"
+          ]
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "Check refills due this week",
+          "text": "Order anything that runs out in the next 7 days."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Look at next week's appointments",
+          "text": "And who is driving to each one."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Read the daily notes",
+          "text": "Mood, sleep, meals. Anything new?"
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Send the family one short update",
+          "text": "Three lines. It stops ten questions."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "One thing for herself",
+          "text": "A walk, a call with a friend, a long coffee."
+        },
+        {
+          "layout": "shot",
+          "kick": "All on one page",
+          "title": "The Today dashboard shows it at a glance",
+          "images": [
+            "Dashboard.png"
+          ]
+        }
+      ],
+      "caption": "Twenty minutes on a Sunday, the same five steps every week. Save it and try it this weekend.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#sundayreset #caregivertips",
+      "alt": "Carousel: Emily's 20-minute Sunday routine for her mom's care.",
+      "pin": true,
+      "pin_title": "A 20-Minute Sunday Routine for Family Caregivers",
+      "pin_desc": "Weekly caregiver checklist: refills due, next week's appointments, daily notes, a short family update, and one thing for yourself."
+    },
+    {
+      "id": "09",
+      "format": "single",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "offer",
+      "pin": true,
+      "kick": "The Family Care Kit",
+      "title": "One kit. Excel, Google Sheets and print.",
+      "list": [
+        "Family Care Hub, 18 tabs",
+        "Emergency Pack, 4 pages",
+        "Family Care Binder, 21 pages",
+        "Care Plan and 5 family email templates"
+      ],
+      "offer": "$29 · code CARE10 for $10 off · until Nov 30",
+      "images": [
+        "Dashboard.png"
+      ],
+      "caption": "Everything in one download: the Family Care Hub, Emergency Pack, printable binder, care plan and family email templates. Pay once, no subscription. Your information stays in your own computer or Google account.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
+      "tags": "#caregiverbinder #medicationtracker",
+      "pin_title": "The Family Care Kit: Everything to Organize Care for Mom or Dad",
+      "pin_desc": "Family Care Hub for Google Sheets and Excel, printable caregiver binder, emergency pack, care plan and email templates. One download, pay once."
+    },
+    {
+      "id": "e-r4",
+      "format": "reel",
+      "seconds": 30,
+      "date": "2026-11-23",
+      "time": "09:00",
+      "status": "draft",
+      "caption": "This Thursday, everyone is at one table. It might be the only time this year.\n\nTwenty minutes, before pie: how is Mom really doing, who does what, and where it all gets written down.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#thanksgiving #familytalk",
+      "alt": "Emily visits her mom before Thanksgiving, notices bills and pills piling up, and asks the family for twenty minutes."
+    },
+    {
+      "id": "e-s4",
+      "format": "single",
+      "date": "2026-11-23",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "Emily filled in Mom's fridge sheet on a quiet Saturday. It took fifteen minutes. She hopes nobody ever needs it.\n\nDo it this weekend, before you ever need it. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#emergencypreparedness #thanksgiving",
+      "alt": "Emily smiling at her laptop after filling in her mom's emergency sheet.",
+      "kick": "This weekend",
+      "title": "Fill it in before you ever need it.",
+      "offer": "$29 · code CARE10 for $10 off · until Nov 30",
+      "images": [
+        "emily/happy.jpg"
+      ]
+    },
+    {
+      "id": "n09",
+      "format": "carousel",
+      "date": "2026-11-24",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "For Thanksgiving week",
+          "title": "6 gentle questions to ask Mom or Dad",
+          "lead": "Not all at once. Pick one or two, and mostly listen."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "How are you managing your medicines?",
+          "text": "Ask how, not whether. It invites a real answer."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Is anything getting harder around the house?",
+          "text": "Stairs, shopping, cooking, the yard."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Who should we call if something happens?",
+          "text": "A neighbor, a friend, a doctor."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Where do you keep the important papers?",
+          "text": "Just where. Not what is in them."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Is anything worrying you?",
+          "text": "Then wait. The answer often comes second."
+        },
+        {
+          "layout": "point",
+          "badge": "6",
+          "title": "What can we take off your plate?",
+          "text": "Let them choose. It keeps them in charge."
+        },
+        {
+          "layout": "cta",
+          "title": "Listen more than you talk",
+          "text": "Write down what you hear, and share it with your brothers and sisters."
+        }
+      ],
+      "caption": "Holidays are often the only time the whole family is together. These questions open the door without making it feel like an interview.\n\nSave this for Thursday.",
+      "tags": "#thanksgiving #agingparents",
+      "alt": "Carousel: six gentle questions to ask an aging parent at Thanksgiving.",
+      "pin": true,
+      "pin_title": "6 Gentle Questions to Ask Your Aging Parent at Thanksgiving",
+      "pin_desc": "Conversation starters for adult children: medicines, the house, emergency contacts, papers, worries and what help they want."
+    },
+    {
+      "id": "n10",
+      "format": "single",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "offer",
+      "caption": "Thursday, the family is together. Bring one plan to the table: medicines and refills, who helps on which day, who paid what, and the emergency sheet for the fridge.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
+      "tags": "#thanksgiving #familycare",
+      "alt": "The Family Care Kit offer: one plan for medicines, help, costs and emergencies.",
+      "pin": true,
+      "kick": "Before Thursday",
+      "title": "Bring one plan to the table",
+      "list": [
+        "Medicines and refills",
+        "Who helps on which day",
+        "Who paid what",
+        "Emergency sheet for the fridge"
+      ],
+      "offer": "$29 · code CARE10 for $10 off · until Nov 30",
+      "images": [
+        "Dashboard.png"
+      ],
+      "pin_title": "The Family Care Kit: One Plan for Caring for Mom or Dad",
+      "pin_desc": "Google Sheets and Excel family care hub, printable binder and emergency pack. Medicines, help sign-up, cost split and emergency info in one place."
+    },
+    {
+      "id": "n11",
+      "format": "carousel",
+      "date": "2026-11-25",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Before pie",
+          "title": "The 20-minute family talk: an agenda",
+          "lead": "For when everyone is finally at one table."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "How is Mom really doing?",
+          "text": "5 minutes. Let her speak first."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Medicines and appointments",
+          "text": "5 minutes. Who keeps track?"
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Who does what",
+          "text": "5 minutes. Visits, bills, rides, calls."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Money",
+          "text": "3 minutes. How do we share the costs?"
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "The next check-in",
+          "text": "2 minutes. Put a date in the calendar."
+        },
+        {
+          "layout": "cta",
+          "title": "Then write it down in one place",
+          "text": "So the plan still exists on Monday. The Family Care Kit, link in bio."
+        }
+      ],
+      "caption": "Twenty minutes, five topics, one plan. Short enough that nobody dreads it.\n\nSave this, and share it in the family group chat before Thursday.",
+      "tags": "#thanksgiving #familymeeting",
+      "alt": "Carousel: a five-part, twenty-minute family meeting agenda about a parent's care.",
+      "pin": true,
+      "pin_title": "20-Minute Family Meeting Agenda for Caring for an Aging Parent",
+      "pin_desc": "A simple Thanksgiving family talk: how Mom is doing, medicines and appointments, who does what, sharing costs, and the next check-in."
+    },
+    {
+      "id": "n12",
+      "format": "single",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "Tomorrow the whole family will be in one room. For many families, it is the only time all year.\n\nTwenty minutes, before pie. That is all it takes to start.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#thanksgiving #familytalk",
+      "alt": "Emily, emotional, with a hand to her face, thinking about tomorrow.",
+      "kick": "Tomorrow",
+      "title": "Everyone at one table. A rare chance to make one plan.",
+      "lead": "Twenty minutes, before pie.",
+      "images": [
+        "emily/moved.jpg"
+      ]
+    },
+    {
+      "id": "n13",
+      "format": "single",
+      "date": "2026-11-26",
+      "time": "09:00",
+      "status": "draft",
+      "layout": "quote",
+      "caption": "Happy Thanksgiving to everyone caring for a parent today: the ones cooking, the ones driving, the ones on the phone from far away.\n\nEvery ride, every refill, every \"did you eat?\" counts.",
+      "tags": "#thanksgiving #caregiverappreciation",
+      "alt": "Quote: To everyone caring for a parent this Thanksgiving: we see you.",
+      "title": "To everyone caring for a parent this Thanksgiving: we see you.",
+      "lead": "Every ride, every refill, every “did you eat?” counts."
+    },
+    {
+      "id": "n14",
+      "format": "single",
+      "date": "2026-11-26",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "photo",
+      "caption": "Mom laughed at dinner. Josh stayed for the talk. The plan is written down.\n\nNot everything is fixed. But tonight, Emily is grateful.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#thanksgiving #gratitude",
+      "alt": "Emily smiling, a hand on her chest, grateful.",
+      "kick": "Thanksgiving night",
+      "title": "Grateful for small things: Mom's laugh, a quiet kitchen, a plan that works.",
+      "images": [
+        "emily/relieved.jpg"
+      ]
+    },
+    {
+      "id": "n15",
+      "format": "carousel",
+      "date": "2026-11-27",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Inside the kit",
+          "title": "5 things families don't expect to find in it",
+          "images": [
+            "Family-Calendar.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "1 · Family Calendar",
+          "title": "Every visit and appointment, one month at a glance",
+          "images": [
+            "Family-Calendar.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "2 · Care Tasks",
+          "title": "Who does what, and when it is due",
+          "images": [
+            "Care-Tasks.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "3 · Daily Care Log",
+          "title": "Mood, sleep, meals, in a few taps",
+          "images": [
+            "Daily-Care-Log.png"
+          ]
+        },
+        {
+          "layout": "shot",
+          "kick": "4 · Vitals",
+          "title": "Blood pressure and weight, charted for you",
+          "images": [
+            "Vitals.png"
+          ]
+        },
+        {
+          "layout": "pages",
+          "kick": "5 · Care Plan + email templates",
+          "title": "The words for the hard family emails",
+          "images": [
+            "Care-Plan-1.png",
+            "Start-Here-Guide-1.png",
+            "Start-Here-Guide-2.png"
+          ]
+        },
+        {
+          "layout": "cta",
+          "title": "$29, or $19 with CARE10",
+          "text": "First 50 families, until November 30. Link in bio."
+        }
+      ],
+      "caption": "No doorbuster, no countdown clock. Just a calmer way to look after Mom or Dad.\n\nEverything in one download, for Google Sheets, Excel and print. Pay once, no subscription. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
+      "tags": "#blackfriday #caregiverbinder",
+      "alt": "Carousel: five parts of the Family Care Kit: calendar, care tasks, daily log, vitals, care plan.",
+      "pin": true,
+      "pin_title": "Family Care Kit: Calendar, Care Tasks, Daily Log and Vitals for Elderly Parents",
+      "pin_desc": "Inside the Family Care Kit: family calendar, care tasks, daily care log, vitals chart, care plan and family email templates. Google Sheets, Excel and print."
+    },
+    {
+      "id": "n16",
+      "format": "single",
+      "date": "2026-11-27",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "quote",
+      "caption": "If you buy one thing this weekend for your family, make it time back.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
+      "tags": "#blackfriday #caregiverlife",
+      "alt": "Quote: No doorbusters. No countdown clock. Just a calmer way to care for Mom.",
+      "title": "No doorbusters. No countdown clock. Just a calmer way to care for Mom.",
+      "lead": "CARE10 takes $10 off, until November 30."
+    },
+    {
+      "id": "n17",
+      "format": "carousel",
+      "date": "2026-11-28",
+      "time": "09:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "After the holiday",
+          "title": "You had the family talk. Now make it stick.",
+          "lead": "Five steps, this weekend, while it's fresh."
+        },
+        {
+          "layout": "point",
+          "badge": "1",
+          "title": "Write down what you agreed",
+          "text": "Even if it was only two things."
+        },
+        {
+          "layout": "point",
+          "badge": "2",
+          "title": "Give every job one name",
+          "text": "\"Someone will\" means nobody will."
+        },
+        {
+          "layout": "point",
+          "badge": "3",
+          "title": "Put the dates in a shared calendar",
+          "text": "Visits, appointments, refills."
+        },
+        {
+          "layout": "point",
+          "badge": "4",
+          "title": "Set the next check-in",
+          "text": "A 20-minute call in a month."
+        },
+        {
+          "layout": "point",
+          "badge": "5",
+          "title": "Thank Mom for talking",
+          "text": "It was not easy for her either."
+        },
+        {
+          "layout": "cta",
+          "title": "One plan, still alive on Monday",
+          "text": "The Family Care Kit keeps it in one shared place. Link in bio."
+        }
+      ],
+      "caption": "The talk is the hard part. Writing it down is what makes it last.\n\nSave this and do it before everyone goes back to normal.",
+      "tags": "#familymeeting #caregivertips",
+      "alt": "Carousel: five steps to turn a family talk about a parent's care into a plan.",
+      "pin": true,
+      "pin_title": "After the Family Talk: 5 Steps to Turn It Into a Care Plan",
+      "pin_desc": "Make your family's caregiving plan stick: write it down, name an owner for each job, shared calendar, next check-in, and thank your parent."
+    },
+    {
+      "id": "n18",
+      "format": "single",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "shot",
+      "caption": "When paramedics or a neighbor need answers, a single sheet on the fridge gives them: medicines, allergies, doctor, who to call.\n\nComment FRIDGE and we will send ours to you, free.\n\nAn organizer, not medical advice.",
+      "tags": "#emergencypreparedness #freeprintable",
+      "alt": "The free Kindly Kept fridge sheet for emergencies.",
+      "kick": "Free for you",
+      "title": "One sheet on the fridge for an emergency",
+      "lead": "Comment FRIDGE and we will send ours, free.",
+      "images": [
+        "Emergency-Pack-1.png"
+      ]
+    },
+    {
+      "id": "n19",
+      "format": "reel",
+      "seconds": 20,
+      "date": "2026-11-29",
+      "time": "09:00",
+      "status": "draft",
+      "caption": "Emily's November: scattered, then one scary night, then twenty minutes at a time, a plan the whole family shares.\n\nThe launch code ends tomorrow. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
+      "tags": "#caregiverstory #getorganized",
+      "alt": "Emily's month in four moments, from overwhelmed to calm, with the kit's dashboard."
+    },
+    {
+      "id": "n20",
+      "format": "carousel",
+      "date": "2026-11-29",
+      "time": "19:00",
+      "status": "draft",
+      "slides": [
+        {
+          "layout": "cover",
+          "kick": "Save this",
+          "title": "Get your parent's care in order: 15 minutes a day for 5 days",
+          "lead": "Small steps. No weekend lost."
+        },
+        {
+          "layout": "point",
+          "badge": "Mon",
+          "title": "The medicine list",
+          "text": "Every pill: name, strength, when, what for."
+        },
+        {
+          "layout": "point",
+          "badge": "Tue",
+          "title": "Doctors and contacts",
+          "text": "Doctors, pharmacy, neighbors, who to call first."
+        },
+        {
+          "layout": "point",
+          "badge": "Wed",
+          "title": "The fridge sheet",
+          "text": "Emergency info on one page, on the fridge."
+        },
+        {
+          "layout": "point",
+          "badge": "Thu",
+          "title": "Where the papers live",
+          "text": "Insurance, power of attorney, healthcare proxy."
+        },
+        {
+          "layout": "point",
+          "badge": "Fri",
+          "title": "Send the family an update",
+          "text": "Three lines. Ask who can take one job."
+        },
+        {
+          "layout": "cta",
+          "title": "Five days, one calm plan",
+          "text": "The Family Care Kit has a page for each step. Link in bio."
+        }
+      ],
+      "caption": "You don't need a free weekend to get organized. You need 15 minutes a day for one week.\n\nSave this and start on Monday.",
+      "tags": "#getorganized #caregivertips",
+      "alt": "Carousel: a five-day, 15-minute-a-day plan to organize a parent's care.",
+      "pin": true,
+      "pin_title": "Organize Your Parent's Care in 5 Days, 15 Minutes a Day",
+      "pin_desc": "A simple caregiver plan: medicine list, contacts, emergency fridge sheet, important papers, and a family update."
+    },
+    {
+      "id": "n21",
+      "format": "single",
+      "date": "2026-11-30",
+      "time": "09:00",
+      "status": "draft",
+      "layout": "offer",
+      "caption": "Today is the last day for the launch code. After tonight the kit stays at $29.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
+      "tags": "#familycare #caregiverbinder",
+      "alt": "Last day of the CARE10 launch code for the Family Care Kit.",
+      "pin": false,
+      "kick": "Last day",
+      "title": "CARE10 ends tonight",
+      "list": [
+        "Family Care Hub, 18 tabs",
+        "Emergency Pack, 4 pages",
+        "Family Care Binder, 21 pages",
+        "Care Plan and 5 family email templates"
+      ],
+      "offer": "$29 · CARE10 takes $10 off · ends tonight",
+      "images": [
+        "Dashboard.png"
+      ]
+    },
+    {
+      "id": "n22",
+      "format": "single",
+      "date": "2026-11-30",
+      "time": "19:00",
+      "status": "draft",
+      "layout": "quote",
+      "caption": "Family Caregivers Month ends today. Thank you for following Emily's story, and for everything you do for your own mom or dad.\n\nPlease look after yourself too.",
+      "tags": "#familycaregiversmonth #caregiverselfcare",
+      "alt": "Quote: Family Caregivers Month ends today. Caring for them doesn't. Neither should caring for you.",
+      "title": "Family Caregivers Month ends today. Caring for them doesn't. Neither should caring for you.",
+      "lead": "Thank you for following Emily this month."
     }
-   ],
-   "caption": "November is Family Caregivers Month. If you are the one keeping track of Mom or Dad's care, this is for you.\n\nSave it for a hard day, and share it with someone who needs to hear it.",
-   "tags": "#familycaregiversmonth #caregiverawareness",
-   "alt": "Carousel: five things every family caregiver should hear.",
-   "issue": 3
-  },
-  {
-   "id": "03",
-   "format": "single",
-   "date": "2026-11-02",
-   "time": "19:00",
-   "status": "approved",
-   "layout": "tip",
-   "pin": true,
-   "kick": "Caregiver tip",
-   "title": "5 things to keep on the fridge for an emergency",
-   "list": [
-    "Every medicine and its dose",
-    "Allergies and main health conditions",
-    "Doctor and pharmacy phone numbers",
-    "Two family contacts who can decide",
-    "Insurance details and where the papers are"
-   ],
-   "images": [
-    "Emergency-Pack-1.png"
-   ],
-   "caption": "In an emergency, paramedics or a neighbor need answers in seconds. A single sheet on the fridge gives them.\n\nWant our free fridge sheet? Comment FRIDGE and we will send it to you.\n\nSave this list, and take ten minutes this week to fill it in for your parent.",
-   "tags": "#emergencypreparedness #seniorsafety",
-   "pin_title": "What to Keep on the Fridge for an Elderly Parent's Emergency (Free Printable)",
-   "pin_desc": "Emergency info sheet checklist for aging parents: medicines and doses, allergies, doctor and pharmacy numbers, family contacts, insurance. Free printable emergency fridge sheet for caregivers.",
-   "issue": 3
-  },
-  {
-   "id": "r02",
-   "format": "reel",
-   "seconds": 15,
-   "date": "2026-11-03",
-   "time": "09:00",
-   "status": "approved",
-   "caption": "Tag the sibling who answers every single one of these.\n\nWhen the whole family shares one plan, the questions stop landing on one person. Medicines, appointments, who is on duty, who paid for what: everyone can open it and see.\n\nThe Family Care Kit. Link in bio.",
-   "tags": "#siblings #caregiverlife #familygroupchat",
-   "alt": "A flood of family group chat messages about a parent's care, replaced by one shared care dashboard.",
-   "issue": 4
-  },
-  {
-   "id": "02",
-   "format": "single",
-   "date": "2026-11-03",
-   "time": "19:00",
-   "status": "approved",
-   "layout": "shot",
-   "pin": true,
-   "kick": "The Today dashboard",
-   "title": "Everything for today, on one screen",
-   "lead": "Next appointment, refills due, overdue tasks, who is on duty and which medicines are still to give.",
-   "images": [
-    "Dashboard.png"
-   ],
-   "caption": "Open one tab in the morning and know what today needs.\n\nThe dashboard fills itself in from the rest of the Family Care Hub, so nobody has to ask \"did she take her pills?\" or \"when is the next appointment?\"\n\nWorks in Google Sheets and Excel. Link in bio.",
-   "tags": "#googlesheets #familyorganizer",
-   "pin_title": "Caregiver Dashboard Spreadsheet: Medicines, Appointments and Tasks at a Glance",
-   "pin_desc": "A Google Sheets and Excel caregiver dashboard that fills itself in: next appointment, refills due, overdue tasks, who is on duty and today's medicines for Mom or Dad.",
-   "issue": 4
-  },
-  {
-   "id": "c02",
-   "format": "carousel",
-   "date": "2026-11-04",
-   "time": "09:00",
-   "status": "approved",
-   "pin": true,
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Save this",
-     "title": "7 signs Mom or Dad may need more help at home",
-     "lead": "Small changes are often the first clue."
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "Unopened mail and unpaid bills",
-     "text": "Piles on the table, late notices, or the same bill paid twice."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Pills left over, or running out early",
-     "text": "Count what is left in the bottles against what should be left."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "An empty or out-of-date fridge",
-     "text": "Skipped meals and spoiled food can mean cooking has become hard."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "New dents on the car",
-     "text": "Scrapes and dents can be an early sign that driving is getting harder."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Missed appointments",
-     "text": "Forgotten visits, or not remembering what the doctor said."
-    },
-    {
-     "layout": "point",
-     "badge": "6",
-     "title": "A home that looks different",
-     "text": "Clutter, laundry piling up, the same clothes day after day."
-    },
-    {
-     "layout": "point",
-     "badge": "7",
-     "title": "Bruises or stories of falls",
-     "text": "Even a small fall is worth mentioning to their doctor."
-    },
-    {
-     "layout": "cta",
-     "title": "Noticed one or two?",
-     "text": "Start a gentle conversation, write down what you see, and talk to their doctor."
-    }
-   ],
-   "caption": "Many families only notice these when they visit after a long gap, like at Thanksgiving.\n\nNone of them means something is wrong on its own. Together, they are a sign to start a gentle conversation and talk to the doctor.\n\nSave this and share it with your brothers and sisters.",
-   "tags": "#agingparents #seniorcare #elderlyparents",
-   "alt": "Carousel: seven signs an aging parent may need more help at home.",
-   "pin_title": "7 Signs Your Aging Parent Needs More Help at Home (Checklist for Adult Children)",
-   "pin_desc": "Warning signs an elderly parent may need help: unpaid bills, medication mix-ups, empty fridge, car dents, missed appointments, cluttered home, falls. A caregiver checklist for families.",
-   "issue": 5
-  },
-  {
-   "id": "04",
-   "format": "single",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "status": "approved",
-   "layout": "shot",
-   "pin": true,
-   "kick": "Medications",
-   "title": "Never miss a refill",
-   "lead": "List each medicine once. Refill status works itself out: OK, due soon, refill now.",
-   "images": [
-    "Medications.png",
-    "Medicine-Cards.png"
-   ],
-   "caption": "Running out of a medicine on a Sunday is stressful for everyone.\n\nIn the Family Care Hub you enter the last refill date and days of supply once. It shows what is due soon and what is overdue, and the dashboard flags it every day.\n\nAn organizer to help families keep track. Always follow your doctor's and pharmacist's instructions.",
-   "tags": "#medicationtracker #medicationmanagement",
-   "pin_title": "Medication Tracker Spreadsheet with Refill Reminders for Elderly Parents",
-   "pin_desc": "Track every medicine, dose and refill date for Mom or Dad in Google Sheets or Excel. Refill status updates by itself: OK, due soon, refill now. Printable medicine cards included.",
-   "issue": 5
-  },
-  {
-   "id": "s10",
-   "format": "single",
-   "date": "2026-11-06",
-   "time": "09:00",
-   "status": "approved",
-   "layout": "quote",
-   "title": "You can't pour from an empty cup. Check in on the person doing the caring.",
-   "lead": "Tag someone who needs to hear this today.",
-   "caption": "Caregivers spend all day asking how someone else is doing. Today, ask them.\n\nA text, a coffee, an hour off. It matters more than you think.",
-   "tags": "#caregiverselfcare #selfcare #caregiversupport",
-   "alt": "Quote: You can't pour from an empty cup. Check in on the person doing the caring.",
-   "issue": 7
-  },
-  {
-   "id": "r04",
-   "format": "reel",
-   "seconds": 15,
-   "date": "2026-11-06",
-   "time": "19:00",
-   "status": "approved",
-   "caption": "If Mom or Dad needed an ambulance tonight, would the paramedics know their medicines?\n\nOur free \"In an emergency\" fridge sheet takes ten minutes to fill in. Comment FRIDGE and we will send it to you.",
-   "tags": "#emergencypreparedness #freeprintable #seniorsafety",
-   "alt": "An emergency information sheet for an elderly parent is pinned to a fridge, with a free download offer.",
-   "issue": 7
-  },
-  {
-   "id": "c04",
-   "format": "carousel",
-   "date": "2026-11-07",
-   "time": "09:00",
-   "status": "approved",
-   "pin": true,
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Save this checklist",
-     "title": "The first 7 days after a parent's hospital stay",
-     "lead": "What to do, day by day, when Mom or Dad comes home."
-    },
-    {
-     "layout": "point",
-     "badge": "Day 1",
-     "title": "Understand the discharge papers",
-     "text": "Before you leave, ask the nurse to walk you through them. Write down who to call with questions."
-    },
-    {
-     "layout": "point",
-     "badge": "Day 1",
-     "title": "Pick up new prescriptions",
-     "text": "On the way home, so there is no gap the first night."
-    },
-    {
-     "layout": "point",
-     "badge": "Day 2",
-     "title": "Update the medicine list",
-     "text": "Compare the old list with the new one. Put away anything the doctor stopped."
-    },
-    {
-     "layout": "point",
-     "badge": "Day 2",
-     "title": "Book the follow-up visit",
-     "text": "The discharge papers say when. Add it to the family calendar."
-    },
-    {
-     "layout": "point",
-     "badge": "Day 3",
-     "title": "Make the home safer",
-     "text": "Clear the paths, add night lights, and keep the phone within reach."
-    },
-    {
-     "layout": "point",
-     "badge": "Day 4",
-     "title": "Share the visits",
-     "text": "Agree who checks in each day, so nobody does it all alone."
-    },
-    {
-     "layout": "point",
-     "badge": "Day 7",
-     "title": "Check how it's going",
-     "text": "Eating, sleeping, moving? Look again at the warning signs on the papers, and call the doctor if anything worries you."
-    },
-    {
-     "layout": "cta",
-     "title": "Keep it all in one place",
-     "text": "The Family Care Kit has a medicine list, calendar and hospital handoff page. Link in bio."
-    }
-   ],
-   "caption": "Coming home from the hospital is when families feel most lost. This is the checklist we wish someone had handed us.\n\nSave it now so you have it when you need it. Always follow the discharge instructions and the care team's advice.",
-   "tags": "#hospitaldischarge #agingparents #caregivertips",
-   "alt": "Carousel: a day-by-day checklist for the first week after a parent comes home from hospital.",
-   "pin_title": "Hospital Discharge Checklist for Aging Parents: The First 7 Days at Home",
-   "pin_desc": "A day-by-day caregiver checklist after an elderly parent's hospital stay: discharge papers, new prescriptions, medicine list, follow-up visit, home safety, family visits.",
-   "issue": 8
-  },
-  {
-   "id": "05",
-   "format": "single",
-   "date": "2026-11-07",
-   "time": "19:00",
-   "status": "approved",
-   "layout": "pages",
-   "pin": true,
-   "kick": "Emergency Pack",
-   "title": "Ready when it matters",
-   "lead": "Print, fill in, keep on the fridge. Hand the hospital page to the nurse.",
-   "images": [
-    "Emergency-Pack-1.png",
-    "Emergency-Pack-2.png",
-    "Emergency-Pack-4.png"
-   ],
-   "caption": "Four printable pages for the moments you hope never come:\n\n1. \"In an emergency\" fridge sheet\n2. Going to the hospital handoff\n3. Taking over today, for whoever covers a shift\n4. Fold-over wallet cards\n\nPart of The Family Care Kit. Link in bio.",
-   "tags": "#emergencyplan #caregiverbinder",
-   "pin_title": "Printable Emergency Pack for Elderly Parents: Fridge Sheet, Hospital Page, Wallet Cards",
-   "pin_desc": "Printable emergency info for aging parents: In an emergency fridge sheet, going to the hospital handoff, shift handoff and fold-over wallet cards. Part of the Family Care Kit.",
-   "issue": 8
-  },
-  {
-   "id": "06",
-   "format": "single",
-   "date": "2026-11-08",
-   "time": "19:00",
-   "status": "approved",
-   "layout": "tip",
-   "pin": true,
-   "kick": "Caregiver tip",
-   "title": "What to bring to a doctor's appointment",
-   "list": [
-    "The full medicine list, with doses",
-    "Blood pressure or sugar readings since the last visit",
-    "Your questions, written down",
-    "Insurance card and photo ID",
-    "Someone to take notes, or a notebook"
-   ],
-   "images": [
-    "Binder-today.png"
-   ],
-   "caption": "Appointments go fast. Walking in prepared means you leave with answers, not more questions.\n\nSave this for the next visit. Comment DOCTOR for our free question sheet.",
-   "tags": "#doctorsappointment #agingparents",
-   "pin_title": "What to Bring to an Elderly Parent's Doctor Appointment (Caregiver Checklist)",
-   "pin_desc": "Doctor visit checklist for caregivers: medicine list with doses, blood pressure and sugar readings, written questions, insurance card and ID, and someone to take notes.",
-   "issue": 9
-  },
-  {
-   "id": "r03",
-   "format": "reel",
-   "seconds": 10,
-   "date": "2026-11-11",
-   "time": "09:00",
-   "status": "draft",
-   "caption": "No formulas to learn. Fill in the tabs once and the Today dashboard does the rest: next appointment, refills due, who is on duty, doses given.\n\nGoogle Sheets or Excel. Link in bio.",
-   "tags": "#googlesheets #spreadsheet #caregiverlife",
-   "alt": "A tour of the Family Care Hub dashboard zooming into appointments, refills, who is on duty and doses given."
-  },
-  {
-   "id": "01",
-   "format": "single",
-   "date": "2026-11-11",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "hero",
-   "pin": true,
-   "kick": "Meet Kindly Kept",
-   "title": "Caring for Mom or Dad? Keep it all in one place.",
-   "lead": "Medicines, appointments, emergency info and who does what, shared by the whole family.",
-   "images": [
-    "Dashboard.png",
-    "Emergency-Pack-1.png"
-   ],
-   "caption": "When Mom or Dad needs more help, the details pile up fast: pills, refills, doctor visits, who is driving on Tuesday, who paid for what.\n\nWe made The Family Care Kit so your family can keep all of it in one shared place, in Google Sheets, Excel or on paper.\n\nFollow along for simple, practical caregiving tips. The kit is at the link in our bio.",
-   "tags": "#medicationtracker #caregiverbinder",
-   "pin_title": "Caregiver Binder and Medication Tracker for Aging Parents (Google Sheets + Printable)",
-   "pin_desc": "Keep Mom or Dad's medicines, appointments, emergency info and family tasks in one shared place. Family Care Kit: Google Sheets and Excel caregiver organizer, printable caregiver binder and emergency pack."
-  },
-  {
-   "id": "n01",
-   "format": "single",
-   "date": "2026-11-12",
-   "time": "09:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "This is Emily. She works from her kitchen table, her mom Margaret lives two hours away, and her brother Josh is mostly on the family group chat.\n\nIf that sounds like your family, follow along this month. We will share what Emily learns about caring for Mom, one small step at a time.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#caregiverstory #caringformom",
-   "alt": "Emily, a woman in her early 40s, at her kitchen table with a laptop and her phone.",
-   "kick": "Meet Emily",
-   "title": "Her mom lives two hours away. Her phone never stops.",
-   "lead": "Follow her this month as she gets Mom's care in order.",
-   "images": [
-    "emily/main.jpg"
-   ]
-  },
-  {
-   "id": "n02",
-   "format": "carousel",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Save this",
-     "title": "Your parent's medicine list: what to write for every pill",
-     "lead": "Six details. Paramedics, doctors and pharmacists ask for all of them."
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "The name",
-     "text": "Brand and generic name, exactly as on the label."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "The strength",
-     "text": "For example 5 mg. Many medicines come in more than one."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "When it is taken",
-     "text": "Morning, night, with food? Write the real routine."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "What it is for",
-     "text": "Blood pressure, sleep, pain. One or two words is enough."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Who prescribed it",
-     "text": "Doctor's name, so questions go to the right place."
-    },
-    {
-     "layout": "point",
-     "badge": "6",
-     "title": "Pharmacy and refill date",
-     "text": "Where it comes from and when it runs out."
-    },
-    {
-     "layout": "cta",
-     "title": "Keep it where the family can see it",
-     "text": "The Family Care Kit has a medicine list that flags refills for you. Link in bio."
-    }
-   ],
-   "caption": "Ask any family who has been in an emergency room: the first question is always \"What medicines does she take?\"\n\nWrite these six details for every pill, and keep one copy at home and one on your phone. Save this post for when you sit down to do it.\n\nAn organizer, not medical advice.",
-   "tags": "#medicationlist #medicationtracker",
-   "alt": "Carousel: six details to write down for every medicine a parent takes.",
-   "pin": true,
-   "pin_title": "Medication List for Elderly Parents: 6 Things to Write for Every Pill",
-   "pin_desc": "What to write on an aging parent's medicine list: name, strength, timing, purpose, prescriber, pharmacy and refill date. Free caregiver checklist."
-  },
-  {
-   "id": "c03",
-   "format": "carousel",
-   "date": "2026-11-13",
-   "time": "09:00",
-   "status": "draft",
-   "pin": true,
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Swipe to see inside",
-     "title": "What's inside The Family Care Kit",
-     "lead": "One download. Excel, Google Sheets and print.",
-     "images": [
-      "Dashboard.png"
-     ]
-    },
-    {
-     "layout": "shot",
-     "kick": "Family Care Hub",
-     "title": "A Today dashboard that fills itself in",
-     "images": [
-      "Dashboard.png"
-     ]
-    },
-    {
-     "layout": "shot",
-     "kick": "Medications",
-     "title": "Refill alerts and medicine cards",
-     "images": [
-      "Medications.png",
-      "Medicine-Cards.png"
-     ]
-    },
-    {
-     "layout": "shot",
-     "kick": "Family",
-     "title": "Help sign-up and cost split",
-     "images": [
-      "Help-Sign-up.png",
-      "Expenses.png"
-     ]
-    },
-    {
-     "layout": "pages",
-     "kick": "Emergency Pack",
-     "title": "Fridge sheet, hospital page, wallet cards",
-     "images": [
-      "Emergency-Pack-1.png",
-      "Emergency-Pack-2.png",
-      "Emergency-Pack-4.png"
-     ]
-    },
-    {
-     "layout": "pages",
-     "kick": "Family Care Binder",
-     "title": "21 printable and fillable pages",
-     "images": [
-      "Binder-cover.png",
-      "Binder-today.png",
-      "Binder-bp.png"
-     ]
-    },
-    {
-     "layout": "cta",
-     "title": "$29, or $19 with CARE10",
-     "text": "First 50 families, until November 30. Link in bio."
-    }
-   ],
-   "caption": "Everything in one download:\n\n1. Family Care Hub (18 tabs, Google Sheets and Excel)\n2. Emergency Pack (4 printable pages)\n3. Family Care Binder (21 pages, printable and fillable)\n4. Care Plan and 5 family email templates\n5. Start Here guide\n\nPay once, no subscription. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
-   "tags": "#caregiverbinder #medicationtracker #digitalplanner",
-   "alt": "Carousel showing each part of the Family Care Kit.",
-   "pin_title": "Family Care Kit: Caregiver Binder, Medication Tracker and Emergency Pack",
-   "pin_desc": "Everything to organize care for an aging parent: Google Sheets and Excel family care hub, printable caregiver binder, emergency pack, care plan and family email templates. Instant download."
-  },
-  {
-   "id": "n03",
-   "format": "single",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "quote",
-   "caption": "Remembering the refills, the appointments, the insurance call, the birthday card for the nurse. It is real work, even when nobody calls it that.\n\nIf this is you, we see you.",
-   "tags": "#caregiverlife #invisiblework",
-   "alt": "Quote: Being the one who remembers everything is a full-time job. Nobody gave you the title.",
-   "title": "Being the one who remembers everything is a full-time job. Nobody gave you the title.",
-   "lead": "Tag the person in your family who carries it."
-  },
-  {
-   "id": "n04",
-   "format": "reel",
-   "seconds": 20,
-   "date": "2026-11-14",
-   "time": "09:00",
-   "status": "draft",
-   "caption": "Next time you visit Mom or Dad, look quietly at three things: the pill box, the fridge and the mail pile.\n\nDon't make it a big talk. Just notice, write it down, and share it with the family.\n\nSave this for your Thanksgiving visit.\n\nAn organizer, not medical advice.",
-   "tags": "#thanksgivingvisit #agingparents",
-   "alt": "Three things to check on a visit to an aging parent: the pill box, the fridge and the mail pile."
-  },
-  {
-   "id": "n05",
-   "format": "carousel",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Pack it before you need it",
-     "title": "A hospital bag for Mom or Dad",
-     "lead": "Six things that save hours when you are in a hurry."
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "Medicine list and allergies",
-     "text": "Printed. Nurses will ask in the first five minutes."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Insurance cards",
-     "text": "Copies of both sides, plus a photo on your phone."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Doctor and pharmacy numbers",
-     "text": "Names, phones and the main doctor's clinic."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "Glasses, hearing aids, chargers",
-     "text": "And a long phone cable. Outlets are far from the bed."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Comfortable clothes",
-     "text": "Non-slip socks, a cardigan, something to go home in."
-    },
-    {
-     "layout": "point",
-     "badge": "6",
-     "title": "A notebook and pen",
-     "text": "Write down what each doctor says, with the time."
-    },
-    {
-     "layout": "cta",
-     "title": "Pack it this weekend",
-     "text": "Our Emergency Pack has a one-page hospital sheet to print and put on top. Link in bio."
-    }
-   ],
-   "caption": "Nobody plans a hospital trip. But you can plan the bag.\n\nPack these six things for your parent this weekend and keep the bag by the door or in the closet. Save this and share it with your siblings.",
-   "tags": "#hospitalbag #emergencypreparedness",
-   "alt": "Carousel: six things to pack in a hospital bag for an aging parent.",
-   "pin": true,
-   "pin_title": "Hospital Bag Checklist for Elderly Parents: 6 Things to Pack",
-   "pin_desc": "What to pack in a hospital bag for an aging parent: medicine list, insurance cards, doctor numbers, glasses and hearing aids, clothes, notebook."
-  },
-  {
-   "id": "n06",
-   "format": "single",
-   "date": "2026-11-15",
-   "time": "09:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "Sunday night, and Emily's head is full again: Mom's refill, Josh's question, Tuesday's appointment.\n\nThe list belongs to the whole family. It just needs somewhere to live that isn't one person's memory.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#caregiverstress #sundaynight",
-   "alt": "Emily, tired, leaning her head on her hand at the kitchen table.",
-   "kick": "Sunday night",
-   "title": "The to-do list belongs to the whole family. So why does it live in your head?",
-   "lead": "Write it down once. Share it.",
-   "images": [
-    "emily/tired.jpg"
-   ]
-  },
-  {
-   "id": "07",
-   "format": "single",
-   "date": "2026-11-15",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "shot",
-   "pin": true,
-   "kick": "Share the care",
-   "title": "Who paid what, and who owes whom",
-   "lead": "Log costs as they happen. The split works itself out, so money never becomes the argument.",
-   "images": [
-    "Expenses.png",
-    "Help-Sign-up.png"
-   ],
-   "caption": "Caring for a parent with brothers and sisters? Costs add up quietly: pharmacy, groceries, gas, a carer for the afternoon.\n\nThe Expenses tab shows who paid what and who owes whom. The Help Sign-up lets everyone pick a meal, a ride or a visit.\n\nLink in bio.",
-   "tags": "#siblings #familycare",
-   "pin_title": "Caregiving Cost Split Spreadsheet for Siblings: Who Paid What, Who Owes Whom",
-   "pin_desc": "Split the costs of caring for an aging parent fairly between siblings. Google Sheets and Excel expense tracker with automatic balances, plus a family help sign-up sheet."
-  },
-  {
-   "id": "n07",
-   "format": "carousel",
-   "date": "2026-11-16",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Save for the next appointment",
-     "title": "5 questions to ask at Mom's next doctor visit",
-     "lead": "Write the answers down before you leave the room."
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "What should we watch at home?",
-     "text": "The one or two signs that mean \"call us\"."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Has any medicine changed?",
-     "text": "New, stopped, or a new dose. Update the list today."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Which side effects matter?",
-     "text": "What is normal, and what is worth a call."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "When do we come back?",
-     "text": "And are there tests to do before then?"
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Who do we call after hours?",
-     "text": "A number for nights and weekends."
-    },
-    {
-     "layout": "cta",
-     "title": "One page, every visit",
-     "text": "Keep the answers with the medicine list, so the whole family knows. Link in bio."
-    }
-   ],
-   "caption": "Appointments go fast, and it is easy to walk out and forget half of it.\n\nTake these five questions with you, write the answers down, and share them with the family the same day.\n\nAn organizer, not medical advice.",
-   "tags": "#doctorsappointment #caregivertips",
-   "alt": "Carousel: five questions to ask at a parent's doctor visit.",
-   "pin": true,
-   "pin_title": "5 Questions to Ask at Your Parent's Doctor Appointment",
-   "pin_desc": "Caregiver checklist for doctor visits: what to watch at home, medicine changes, side effects, follow-up and after-hours numbers."
-  },
-  {
-   "id": "n08",
-   "format": "single",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "Emily started with three things: Mom's medicines, her doctors, and who to call. It took her twenty minutes.\n\nYou don't have to do it all tonight. Start with those three.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#getorganized #caregivertips",
-   "alt": "Emily, focused, typing on her laptop at the kitchen table.",
-   "kick": "Tonight",
-   "title": "Twenty minutes tonight saves hours of guessing later.",
-   "lead": "Medicines, doctors, contacts. Start with those three.",
-   "images": [
-    "emily/focused.jpg"
-   ]
-  },
-  {
-   "id": "e-r1",
-   "format": "reel",
-   "seconds": 30,
-   "date": "2026-11-17",
-   "time": "09:00",
-   "status": "draft",
-   "caption": "2:14 a.m. The phone rings. Mom fell, and the paramedics are asking what she takes.\n\nEmily loves her mom. She calls every Sunday. She still didn't know.\n\nWould you? Write it down this week, and put a copy on the fridge.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#caregiverstory #emergencypreparedness",
-   "alt": "Emily's story: a 2 a.m. call about her mom's fall, and the medicine list she couldn't answer."
-  },
-  {
-   "id": "e-c1",
-   "format": "carousel",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Emily's story",
-     "title": "At 2 a.m., the paramedics asked Emily one question. She couldn't answer.",
-     "images": [
-      "emily/anxious.jpg"
-     ]
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "What medicines does she take?",
-     "text": "Name, dose and when. The question everyone asks first."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Any allergies?",
-     "text": "Medicines and foods."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Who is her doctor?",
-     "text": "Name and phone number."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "Any recent hospital stays or surgeries?",
-     "text": "With rough dates."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Who can make decisions for her?",
-     "text": "And where are the papers?"
-    },
-    {
-     "layout": "cta",
-     "title": "Put the answers on one sheet on the fridge",
-     "text": "Comment FRIDGE and we will send you ours, free."
-    }
-   ],
-   "caption": "Five questions paramedics ask in the first minutes. Could you answer them for your mom or dad tonight?\n\nComment FRIDGE and we will send you our free fridge sheet.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#emergencypreparedness #seniorsafety",
-   "alt": "Carousel: five questions paramedics ask about a parent, and a free fridge sheet.",
-   "pin": true,
-   "pin_title": "5 Questions Paramedics Ask About Your Parent (Free Fridge Sheet)",
-   "pin_desc": "Be ready for an emergency with an aging parent: medicines, allergies, doctor, recent hospital stays and who can make decisions. Free printable fridge sheet."
-  },
-  {
-   "id": "e-s1",
-   "format": "single",
-   "date": "2026-11-18",
-   "time": "09:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "\"I'm fine, sweetheart.\" Emily has heard it a hundred times. Some days it is true.\n\nThe trick is knowing which days. A few notes each week, shared with the family, make the pattern easier to see.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#caringformom #agingparents",
-   "alt": "Emily on her phone, listening to her mom, with a worried half-smile.",
-   "kick": "Every caregiver knows this sentence",
-   "title": "“I'm fine, sweetheart.”",
-   "lead": "Some days it's true. A few notes a week help you tell which days.",
-   "images": [
-    "emily/main.jpg"
-   ]
-  },
-  {
-   "id": "e-r2",
-   "format": "reel",
-   "seconds": 35,
-   "date": "2026-11-18",
-   "time": "19:00",
-   "status": "draft",
-   "caption": "Tag the sibling who asks this every single day.\n\nNobody knew if Mom took Thursday's pills. Not Emily, not Josh, not even Mom. So Emily made one plan the whole family can see.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#siblings #familygroupchat",
-   "alt": "Emily's story: the family group chat about Mom's pills, and one shared care plan."
-  },
-  {
-   "id": "e-c2",
-   "format": "carousel",
-   "date": "2026-11-19",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Emily's story",
-     "title": "Emily did everything. Josh lived 600 miles away. Here's how they fixed it.",
-     "images": [
-      "emily/focused.jpg"
-     ]
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "Write down every job",
-     "text": "Even the small ones: the pharmacy call, the birthday card."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Josh takes the far-away jobs",
-     "text": "Bills, pharmacy calls, insurance, booking appointments."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Emily takes the close-by jobs",
-     "text": "Visits, driving to appointments, the weekly check-in."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "One shared calendar",
-     "text": "So nobody has to ask \"who's going?\""
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Split the costs in the open",
-     "text": "Who paid what, and who owes whom."
-    },
-    {
-     "layout": "shot",
-     "kick": "One plan, shared",
-     "title": "Help sign-up and cost split, in one place",
-     "images": [
-      "Help-Sign-up.png",
-      "Expenses.png"
-     ]
-    }
-   ],
-   "caption": "Living far away doesn't mean you can't help. It means you help differently.\n\nSave this for your next sibling call. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#siblings #longdistancecaregiver",
-   "alt": "Carousel: how a brother and sister split their mom's care, with the kit's help sign-up and cost split.",
-   "pin": true,
-   "pin_title": "How Siblings Can Share Care for an Aging Parent (Even From Far Away)",
-   "pin_desc": "Split caregiving fairly between siblings: list every job, far-away jobs vs close-by jobs, one shared calendar, and an open cost split."
-  },
-  {
-   "id": "08",
-   "format": "single",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "pages",
-   "pin": true,
-   "kick": "Family Care Binder",
-   "title": "21 printable pages",
-   "lead": "For anyone who likes pen and paper. Printable, or fill it in on a computer.",
-   "images": [
-    "Binder-cover.png",
-    "Binder-today.png",
-    "Binder-bp.png"
-   ],
-   "caption": "Not everyone in the family wants a spreadsheet. The binder has 21 US Letter pages: medicine list, weekly dose record, blood pressure chart, \"Today with Mom\", month calendar, night log and more.\n\nPrint it, or type into the fillable PDF.",
-   "tags": "#printableplanner #caregiverbinder",
-   "pin_title": "Printable Caregiver Binder: 21 Pages for Elderly Parent Care (Fillable PDF)",
-   "pin_desc": "Caregiver binder printables: medication list, weekly dose record, blood pressure log, daily care page, calendar, care tasks, contacts and more. US Letter, printable and fillable PDF."
-  },
-  {
-   "id": "e-r3",
-   "format": "reel",
-   "seconds": 25,
-   "date": "2026-11-20",
-   "time": "09:00",
-   "status": "draft",
-   "caption": "One quiet Sunday morning, twenty minutes, and every bottle on the table.\n\nThree days later the pharmacy called Josh. For once, Emily had the answer in seconds.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#sundayreset #medicationtracker",
-   "alt": "Emily spends twenty minutes writing down her mom's medicines, then answers her brother's question in seconds."
-  },
-  {
-   "id": "e-s2",
-   "format": "single",
-   "date": "2026-11-20",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "Two hours of highway between Emily and her mom. She can't drop by. So she needs to know: the refills, the visits, how Mom slept.\n\nIf you care for a parent from far away, you are not doing it less. You are doing it differently.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#longdistancecaregiver #caringformom",
-   "alt": "Emily, emotional, with a hand over her eyes at the kitchen table.",
-   "kick": "Two hours away",
-   "title": "Caring for Mom from far away means knowing everything without being there.",
-   "images": [
-    "emily/moved.jpg"
-   ]
-  },
-  {
-   "id": "e-c3",
-   "format": "carousel",
-   "date": "2026-11-21",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Emily's story",
-     "title": "The day Mom went to hospital, Emily spent 3 hours looking for papers.",
-     "images": [
-      "emily/tired.jpg"
-     ]
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "Insurance and Medicare cards",
-     "text": "Photos of both sides, saved where the family can find them."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Power of attorney and healthcare proxy",
-     "text": "Who has the originals, and where."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Medicine list and allergies",
-     "text": "Up to date, one copy at home."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "Doctors and pharmacy",
-     "text": "Names, phones, addresses."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Bank, bills and passwords",
-     "text": "Where they are kept. Not the passwords themselves."
-    },
-    {
-     "layout": "pages",
-     "kick": "Write down where each paper lives",
-     "title": "Today, not on the day you need it",
-     "images": [
-      "Emergency-Pack-1.png",
-      "Emergency-Pack-2.png",
-      "Emergency-Pack-4.png"
-     ]
-    }
-   ],
-   "caption": "You don't need to have every paper in your hands. You need to know where each one lives.\n\nSave this, and take ten minutes this weekend to write it down with your parent.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#importantdocuments #eldercareplanning",
-   "alt": "Carousel: five papers to locate for an aging parent before an emergency.",
-   "pin": true,
-   "pin_title": "5 Important Papers to Find for Your Aging Parent Before an Emergency",
-   "pin_desc": "Insurance and Medicare cards, power of attorney, healthcare proxy, medicine list, doctors, and where bank and bill papers are kept."
-  },
-  {
-   "id": "e-s3",
-   "format": "single",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "Emily asks Mom every day if she ate. Today Josh asked Emily.\n\nThis one is for the caregiver. Eat something warm. Sit for five minutes. The list will wait.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#caregiverselfcare #selfcare",
-   "alt": "Emily with her hand on her chest, smiling softly at her phone.",
-   "kick": "A gentle reminder",
-   "title": "You ask Mom if she ate. Did you?",
-   "images": [
-    "emily/relieved.jpg"
-   ]
-  },
-  {
-   "id": "e-c4",
-   "format": "carousel",
-   "date": "2026-11-22",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Emily's story",
-     "title": "Every Sunday, Emily does this for 20 minutes. Her week got calmer.",
-     "images": [
-      "emily/happy.jpg"
-     ]
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "Check refills due this week",
-     "text": "Order anything that runs out in the next 7 days."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Look at next week's appointments",
-     "text": "And who is driving to each one."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Read the daily notes",
-     "text": "Mood, sleep, meals. Anything new?"
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "Send the family one short update",
-     "text": "Three lines. It stops ten questions."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "One thing for herself",
-     "text": "A walk, a call with a friend, a long coffee."
-    },
-    {
-     "layout": "shot",
-     "kick": "All on one page",
-     "title": "The Today dashboard shows it at a glance",
-     "images": [
-      "Dashboard.png"
-     ]
-    }
-   ],
-   "caption": "Twenty minutes on a Sunday, the same five steps every week. Save it and try it this weekend.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#sundayreset #caregivertips",
-   "alt": "Carousel: Emily's 20-minute Sunday routine for her mom's care.",
-   "pin": true,
-   "pin_title": "A 20-Minute Sunday Routine for Family Caregivers",
-   "pin_desc": "Weekly caregiver checklist: refills due, next week's appointments, daily notes, a short family update, and one thing for yourself."
-  },
-  {
-   "id": "09",
-   "format": "single",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "offer",
-   "pin": true,
-   "kick": "The Family Care Kit",
-   "title": "One kit. Excel, Google Sheets and print.",
-   "list": [
-    "Family Care Hub, 18 tabs",
-    "Emergency Pack, 4 pages",
-    "Family Care Binder, 21 pages",
-    "Care Plan and 5 family email templates"
-   ],
-   "offer": "$29 · code CARE10 for $10 off · until Nov 30",
-   "images": [
-    "Dashboard.png"
-   ],
-   "caption": "Everything in one download: the Family Care Hub, Emergency Pack, printable binder, care plan and family email templates. Pay once, no subscription. Your information stays in your own computer or Google account.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
-   "tags": "#caregiverbinder #medicationtracker",
-   "pin_title": "The Family Care Kit: Everything to Organize Care for Mom or Dad",
-   "pin_desc": "Family Care Hub for Google Sheets and Excel, printable caregiver binder, emergency pack, care plan and email templates. One download, pay once."
-  },
-  {
-   "id": "e-r4",
-   "format": "reel",
-   "seconds": 30,
-   "date": "2026-11-23",
-   "time": "09:00",
-   "status": "draft",
-   "caption": "This Thursday, everyone is at one table. It might be the only time this year.\n\nTwenty minutes, before pie: how is Mom really doing, who does what, and where it all gets written down.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#thanksgiving #familytalk",
-   "alt": "Emily visits her mom before Thanksgiving, notices bills and pills piling up, and asks the family for twenty minutes."
-  },
-  {
-   "id": "e-s4",
-   "format": "single",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "Emily filled in Mom's fridge sheet on a quiet Saturday. It took fifteen minutes. She hopes nobody ever needs it.\n\nDo it this weekend, before you ever need it. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#emergencypreparedness #thanksgiving",
-   "alt": "Emily smiling at her laptop after filling in her mom's emergency sheet.",
-   "kick": "This weekend",
-   "title": "Fill it in before you ever need it.",
-   "offer": "$29 · code CARE10 for $10 off · until Nov 30",
-   "images": [
-    "emily/happy.jpg"
-   ]
-  },
-  {
-   "id": "n09",
-   "format": "carousel",
-   "date": "2026-11-24",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "For Thanksgiving week",
-     "title": "6 gentle questions to ask Mom or Dad",
-     "lead": "Not all at once. Pick one or two, and mostly listen."
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "How are you managing your medicines?",
-     "text": "Ask how, not whether. It invites a real answer."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Is anything getting harder around the house?",
-     "text": "Stairs, shopping, cooking, the yard."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Who should we call if something happens?",
-     "text": "A neighbor, a friend, a doctor."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "Where do you keep the important papers?",
-     "text": "Just where. Not what is in them."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Is anything worrying you?",
-     "text": "Then wait. The answer often comes second."
-    },
-    {
-     "layout": "point",
-     "badge": "6",
-     "title": "What can we take off your plate?",
-     "text": "Let them choose. It keeps them in charge."
-    },
-    {
-     "layout": "cta",
-     "title": "Listen more than you talk",
-     "text": "Write down what you hear, and share it with your brothers and sisters."
-    }
-   ],
-   "caption": "Holidays are often the only time the whole family is together. These questions open the door without making it feel like an interview.\n\nSave this for Thursday.",
-   "tags": "#thanksgiving #agingparents",
-   "alt": "Carousel: six gentle questions to ask an aging parent at Thanksgiving.",
-   "pin": true,
-   "pin_title": "6 Gentle Questions to Ask Your Aging Parent at Thanksgiving",
-   "pin_desc": "Conversation starters for adult children: medicines, the house, emergency contacts, papers, worries and what help they want."
-  },
-  {
-   "id": "n10",
-   "format": "single",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "offer",
-   "caption": "Thursday, the family is together. Bring one plan to the table: medicines and refills, who helps on which day, who paid what, and the emergency sheet for the fridge.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
-   "tags": "#thanksgiving #familycare",
-   "alt": "The Family Care Kit offer: one plan for medicines, help, costs and emergencies.",
-   "pin": true,
-   "kick": "Before Thursday",
-   "title": "Bring one plan to the table",
-   "list": [
-    "Medicines and refills",
-    "Who helps on which day",
-    "Who paid what",
-    "Emergency sheet for the fridge"
-   ],
-   "offer": "$29 · code CARE10 for $10 off · until Nov 30",
-   "images": [
-    "Dashboard.png"
-   ],
-   "pin_title": "The Family Care Kit: One Plan for Caring for Mom or Dad",
-   "pin_desc": "Google Sheets and Excel family care hub, printable binder and emergency pack. Medicines, help sign-up, cost split and emergency info in one place."
-  },
-  {
-   "id": "n11",
-   "format": "carousel",
-   "date": "2026-11-25",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Before pie",
-     "title": "The 20-minute family talk: an agenda",
-     "lead": "For when everyone is finally at one table."
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "How is Mom really doing?",
-     "text": "5 minutes. Let her speak first."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Medicines and appointments",
-     "text": "5 minutes. Who keeps track?"
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Who does what",
-     "text": "5 minutes. Visits, bills, rides, calls."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "Money",
-     "text": "3 minutes. How do we share the costs?"
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "The next check-in",
-     "text": "2 minutes. Put a date in the calendar."
-    },
-    {
-     "layout": "cta",
-     "title": "Then write it down in one place",
-     "text": "So the plan still exists on Monday. The Family Care Kit, link in bio."
-    }
-   ],
-   "caption": "Twenty minutes, five topics, one plan. Short enough that nobody dreads it.\n\nSave this, and share it in the family group chat before Thursday.",
-   "tags": "#thanksgiving #familymeeting",
-   "alt": "Carousel: a five-part, twenty-minute family meeting agenda about a parent's care.",
-   "pin": true,
-   "pin_title": "20-Minute Family Meeting Agenda for Caring for an Aging Parent",
-   "pin_desc": "A simple Thanksgiving family talk: how Mom is doing, medicines and appointments, who does what, sharing costs, and the next check-in."
-  },
-  {
-   "id": "n12",
-   "format": "single",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "Tomorrow the whole family will be in one room. For many families, it is the only time all year.\n\nTwenty minutes, before pie. That is all it takes to start.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#thanksgiving #familytalk",
-   "alt": "Emily, emotional, with a hand to her face, thinking about tomorrow.",
-   "kick": "Tomorrow",
-   "title": "Everyone at one table. A rare chance to make one plan.",
-   "lead": "Twenty minutes, before pie.",
-   "images": [
-    "emily/moved.jpg"
-   ]
-  },
-  {
-   "id": "n13",
-   "format": "single",
-   "date": "2026-11-26",
-   "time": "09:00",
-   "status": "draft",
-   "layout": "quote",
-   "caption": "Happy Thanksgiving to everyone caring for a parent today: the ones cooking, the ones driving, the ones on the phone from far away.\n\nEvery ride, every refill, every \"did you eat?\" counts.",
-   "tags": "#thanksgiving #caregiverappreciation",
-   "alt": "Quote: To everyone caring for a parent this Thanksgiving: we see you.",
-   "title": "To everyone caring for a parent this Thanksgiving: we see you.",
-   "lead": "Every ride, every refill, every “did you eat?” counts."
-  },
-  {
-   "id": "n14",
-   "format": "single",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "photo",
-   "caption": "Mom laughed at dinner. Josh stayed for the talk. The plan is written down.\n\nNot everything is fixed. But tonight, Emily is grateful.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#thanksgiving #gratitude",
-   "alt": "Emily smiling, a hand on her chest, grateful.",
-   "kick": "Thanksgiving night",
-   "title": "Grateful for small things: Mom's laugh, a quiet kitchen, a plan that works.",
-   "images": [
-    "emily/relieved.jpg"
-   ]
-  },
-  {
-   "id": "n15",
-   "format": "carousel",
-   "date": "2026-11-27",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Inside the kit",
-     "title": "5 things families don't expect to find in it",
-     "images": [
-      "Family-Calendar.png"
-     ]
-    },
-    {
-     "layout": "shot",
-     "kick": "1 · Family Calendar",
-     "title": "Every visit and appointment, one month at a glance",
-     "images": [
-      "Family-Calendar.png"
-     ]
-    },
-    {
-     "layout": "shot",
-     "kick": "2 · Care Tasks",
-     "title": "Who does what, and when it is due",
-     "images": [
-      "Care-Tasks.png"
-     ]
-    },
-    {
-     "layout": "shot",
-     "kick": "3 · Daily Care Log",
-     "title": "Mood, sleep, meals, in a few taps",
-     "images": [
-      "Daily-Care-Log.png"
-     ]
-    },
-    {
-     "layout": "shot",
-     "kick": "4 · Vitals",
-     "title": "Blood pressure and weight, charted for you",
-     "images": [
-      "Vitals.png"
-     ]
-    },
-    {
-     "layout": "pages",
-     "kick": "5 · Care Plan + email templates",
-     "title": "The words for the hard family emails",
-     "images": [
-      "Care-Plan-1.png",
-      "Start-Here-Guide-1.png",
-      "Start-Here-Guide-2.png"
-     ]
-    },
-    {
-     "layout": "cta",
-     "title": "$29, or $19 with CARE10",
-     "text": "First 50 families, until November 30. Link in bio."
-    }
-   ],
-   "caption": "No doorbuster, no countdown clock. Just a calmer way to look after Mom or Dad.\n\nEverything in one download, for Google Sheets, Excel and print. Pay once, no subscription. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
-   "tags": "#blackfriday #caregiverbinder",
-   "alt": "Carousel: five parts of the Family Care Kit: calendar, care tasks, daily log, vitals, care plan.",
-   "pin": true,
-   "pin_title": "Family Care Kit: Calendar, Care Tasks, Daily Log and Vitals for Elderly Parents",
-   "pin_desc": "Inside the Family Care Kit: family calendar, care tasks, daily care log, vitals chart, care plan and family email templates. Google Sheets, Excel and print."
-  },
-  {
-   "id": "n16",
-   "format": "single",
-   "date": "2026-11-27",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "quote",
-   "caption": "If you buy one thing this weekend for your family, make it time back.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
-   "tags": "#blackfriday #caregiverlife",
-   "alt": "Quote: No doorbusters. No countdown clock. Just a calmer way to care for Mom.",
-   "title": "No doorbusters. No countdown clock. Just a calmer way to care for Mom.",
-   "lead": "CARE10 takes $10 off, until November 30."
-  },
-  {
-   "id": "n17",
-   "format": "carousel",
-   "date": "2026-11-28",
-   "time": "09:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "After the holiday",
-     "title": "You had the family talk. Now make it stick.",
-     "lead": "Five steps, this weekend, while it's fresh."
-    },
-    {
-     "layout": "point",
-     "badge": "1",
-     "title": "Write down what you agreed",
-     "text": "Even if it was only two things."
-    },
-    {
-     "layout": "point",
-     "badge": "2",
-     "title": "Give every job one name",
-     "text": "\"Someone will\" means nobody will."
-    },
-    {
-     "layout": "point",
-     "badge": "3",
-     "title": "Put the dates in a shared calendar",
-     "text": "Visits, appointments, refills."
-    },
-    {
-     "layout": "point",
-     "badge": "4",
-     "title": "Set the next check-in",
-     "text": "A 20-minute call in a month."
-    },
-    {
-     "layout": "point",
-     "badge": "5",
-     "title": "Thank Mom for talking",
-     "text": "It was not easy for her either."
-    },
-    {
-     "layout": "cta",
-     "title": "One plan, still alive on Monday",
-     "text": "The Family Care Kit keeps it in one shared place. Link in bio."
-    }
-   ],
-   "caption": "The talk is the hard part. Writing it down is what makes it last.\n\nSave this and do it before everyone goes back to normal.",
-   "tags": "#familymeeting #caregivertips",
-   "alt": "Carousel: five steps to turn a family talk about a parent's care into a plan.",
-   "pin": true,
-   "pin_title": "After the Family Talk: 5 Steps to Turn It Into a Care Plan",
-   "pin_desc": "Make your family's caregiving plan stick: write it down, name an owner for each job, shared calendar, next check-in, and thank your parent."
-  },
-  {
-   "id": "n18",
-   "format": "single",
-   "date": "2026-11-28",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "shot",
-   "caption": "When paramedics or a neighbor need answers, a single sheet on the fridge gives them: medicines, allergies, doctor, who to call.\n\nComment FRIDGE and we will send ours to you, free.\n\nAn organizer, not medical advice.",
-   "tags": "#emergencypreparedness #freeprintable",
-   "alt": "The free Kindly Kept fridge sheet for emergencies.",
-   "kick": "Free for you",
-   "title": "One sheet on the fridge for an emergency",
-   "lead": "Comment FRIDGE and we will send ours, free.",
-   "images": [
-    "Emergency-Pack-1.png"
-   ]
-  },
-  {
-   "id": "n19",
-   "format": "reel",
-   "seconds": 20,
-   "date": "2026-11-29",
-   "time": "09:00",
-   "status": "draft",
-   "caption": "Emily's November: scattered, then one scary night, then twenty minutes at a time, a plan the whole family shares.\n\nThe launch code ends tomorrow. The Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
-   "tags": "#caregiverstory #getorganized",
-   "alt": "Emily's month in four moments, from overwhelmed to calm, with the kit's dashboard."
-  },
-  {
-   "id": "n20",
-   "format": "carousel",
-   "date": "2026-11-29",
-   "time": "19:00",
-   "status": "draft",
-   "slides": [
-    {
-     "layout": "cover",
-     "kick": "Save this",
-     "title": "Get your parent's care in order: 15 minutes a day for 5 days",
-     "lead": "Small steps. No weekend lost."
-    },
-    {
-     "layout": "point",
-     "badge": "Mon",
-     "title": "The medicine list",
-     "text": "Every pill: name, strength, when, what for."
-    },
-    {
-     "layout": "point",
-     "badge": "Tue",
-     "title": "Doctors and contacts",
-     "text": "Doctors, pharmacy, neighbors, who to call first."
-    },
-    {
-     "layout": "point",
-     "badge": "Wed",
-     "title": "The fridge sheet",
-     "text": "Emergency info on one page, on the fridge."
-    },
-    {
-     "layout": "point",
-     "badge": "Thu",
-     "title": "Where the papers live",
-     "text": "Insurance, power of attorney, healthcare proxy."
-    },
-    {
-     "layout": "point",
-     "badge": "Fri",
-     "title": "Send the family an update",
-     "text": "Three lines. Ask who can take one job."
-    },
-    {
-     "layout": "cta",
-     "title": "Five days, one calm plan",
-     "text": "The Family Care Kit has a page for each step. Link in bio."
-    }
-   ],
-   "caption": "You don't need a free weekend to get organized. You need 15 minutes a day for one week.\n\nSave this and start on Monday.",
-   "tags": "#getorganized #caregivertips",
-   "alt": "Carousel: a five-day, 15-minute-a-day plan to organize a parent's care.",
-   "pin": true,
-   "pin_title": "Organize Your Parent's Care in 5 Days, 15 Minutes a Day",
-   "pin_desc": "A simple caregiver plan: medicine list, contacts, emergency fridge sheet, important papers, and a family update."
-  },
-  {
-   "id": "n21",
-   "format": "single",
-   "date": "2026-11-30",
-   "time": "09:00",
-   "status": "draft",
-   "layout": "offer",
-   "caption": "Today is the last day for the launch code. After tonight the kit stays at $29.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
-   "tags": "#familycare #caregiverbinder",
-   "alt": "Last day of the CARE10 launch code for the Family Care Kit.",
-   "pin": false,
-   "kick": "Last day",
-   "title": "CARE10 ends tonight",
-   "list": [
-    "Family Care Hub, 18 tabs",
-    "Emergency Pack, 4 pages",
-    "Family Care Binder, 21 pages",
-    "Care Plan and 5 family email templates"
-   ],
-   "offer": "$29 · CARE10 takes $10 off · ends tonight",
-   "images": [
-    "Dashboard.png"
-   ]
-  },
-  {
-   "id": "n22",
-   "format": "single",
-   "date": "2026-11-30",
-   "time": "19:00",
-   "status": "draft",
-   "layout": "quote",
-   "caption": "Family Caregivers Month ends today. Thank you for following Emily's story, and for everything you do for your own mom or dad.\n\nPlease look after yourself too.",
-   "tags": "#familycaregiversmonth #caregiverselfcare",
-   "alt": "Quote: Family Caregivers Month ends today. Caring for them doesn't. Neither should caring for you.",
-   "title": "Family Caregivers Month ends today. Caring for them doesn't. Neither should caring for you.",
-   "lead": "Thank you for following Emily this month."
-  }
- ]
+  ]
 }
