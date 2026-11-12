@@ -541,7 +541,8 @@
       "tags": "#caregiverbinder #medicationtracker #digitalplanner",
       "alt": "Carousel showing each part of the Family Care Kit.",
       "pin_title": "Family Care Kit: Caregiver Binder, Medication Tracker and Emergency Pack",
-      "pin_desc": "Everything to organize care for an aging parent: Google Sheets and Excel family care hub, printable caregiver binder, emergency pack, care plan and family email templates. Instant download."
+      "pin_desc": "Everything to organize care for an aging parent: Google Sheets and Excel family care hub, printable caregiver binder, emergency pack, care plan and family email templates. Instant download.",
+      "issue": 12
     },
     {
       "id": "n03",
@@ -554,7 +555,8 @@
       "tags": "#caregiverlife #invisiblework",
       "alt": "Quote: Being the one who remembers everything is a full-time job. Nobody gave you the title.",
       "title": "Being the one who remembers everything is a full-time job. Nobody gave you the title.",
-      "lead": "Tag the person in your family who carries it."
+      "lead": "Tag the person in your family who carries it.",
+      "issue": 12
     },
     {
       "id": "n04",
