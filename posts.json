@@ -402,7 +402,8 @@
       "lead": "Follow her this month as she gets Mom's care in order.",
       "images": [
         "emily/main.jpg"
-      ]
+      ],
+      "issue": 11
     },
     {
       "id": "n02",
@@ -464,7 +465,8 @@
       "alt": "Carousel: six details to write down for every medicine a parent takes.",
       "pin": true,
       "pin_title": "Medication List for Elderly Parents: 6 Things to Write for Every Pill",
-      "pin_desc": "What to write on an aging parent's medicine list: name, strength, timing, purpose, prescriber, pharmacy and refill date. Free caregiver checklist."
+      "pin_desc": "What to write on an aging parent's medicine list: name, strength, timing, purpose, prescriber, pharmacy and refill date. Free caregiver checklist.",
+      "issue": 11
     },
     {
       "id": "c03",
