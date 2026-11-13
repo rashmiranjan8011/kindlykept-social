@@ -567,7 +567,8 @@
       "status": "draft",
       "caption": "Next time you visit Mom or Dad, look quietly at three things: the pill box, the fridge and the mail pile.\n\nDon't make it a big talk. Just notice, write it down, and share it with the family.\n\nSave this for your Thanksgiving visit.\n\nAn organizer, not medical advice.",
       "tags": "#thanksgivingvisit #agingparents",
-      "alt": "Three things to check on a visit to an aging parent: the pill box, the fridge and the mail pile."
+      "alt": "Three things to check on a visit to an aging parent: the pill box, the fridge and the mail pile.",
+      "issue": 13
     },
     {
       "id": "n05",
@@ -629,7 +630,8 @@
       "alt": "Carousel: six things to pack in a hospital bag for an aging parent.",
       "pin": true,
       "pin_title": "Hospital Bag Checklist for Elderly Parents: 6 Things to Pack",
-      "pin_desc": "What to pack in a hospital bag for an aging parent: medicine list, insurance cards, doctor numbers, glasses and hearing aids, clothes, notebook."
+      "pin_desc": "What to pack in a hospital bag for an aging parent: medicine list, insurance cards, doctor numbers, glasses and hearing aids, clothes, notebook.",
+      "issue": 13
     },
     {
       "id": "n06",
