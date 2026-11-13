@@ -473,7 +473,7 @@
       "format": "carousel",
       "date": "2026-11-13",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "pin": true,
       "slides": [
         {
@@ -549,7 +549,7 @@
       "format": "single",
       "date": "2026-11-13",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "quote",
       "caption": "Remembering the refills, the appointments, the insurance call, the birthday card for the nurse. It is real work, even when nobody calls it that.\n\nIf this is you, we see you.",
       "tags": "#caregiverlife #invisiblework",
