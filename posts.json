@@ -564,7 +564,7 @@
       "seconds": 20,
       "date": "2026-11-14",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "caption": "Next time you visit Mom or Dad, look quietly at three things: the pill box, the fridge and the mail pile.\n\nDon't make it a big talk. Just notice, write it down, and share it with the family.\n\nSave this for your Thanksgiving visit.\n\nAn organizer, not medical advice.",
       "tags": "#thanksgivingvisit #agingparents",
       "alt": "Three things to check on a visit to an aging parent: the pill box, the fridge and the mail pile.",
@@ -575,7 +575,7 @@
       "format": "carousel",
       "date": "2026-11-14",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "slides": [
         {
           "layout": "cover",
