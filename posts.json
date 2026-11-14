@@ -648,7 +648,8 @@
       "lead": "Write it down once. Share it.",
       "images": [
         "emily/tired.jpg"
-      ]
+      ],
+      "issue": 14
     },
     {
       "id": "07",
@@ -668,7 +669,8 @@
       "caption": "Caring for a parent with brothers and sisters? Costs add up quietly: pharmacy, groceries, gas, a carer for the afternoon.\n\nThe Expenses tab shows who paid what and who owes whom. The Help Sign-up lets everyone pick a meal, a ride or a visit.\n\nLink in bio.",
       "tags": "#siblings #familycare",
       "pin_title": "Caregiving Cost Split Spreadsheet for Siblings: Who Paid What, Who Owes Whom",
-      "pin_desc": "Split the costs of caring for an aging parent fairly between siblings. Google Sheets and Excel expense tracker with automatic balances, plus a family help sign-up sheet."
+      "pin_desc": "Split the costs of caring for an aging parent fairly between siblings. Google Sheets and Excel expense tracker with automatic balances, plus a family help sign-up sheet.",
+      "issue": 14
     },
     {
       "id": "n07",
