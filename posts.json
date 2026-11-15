@@ -726,7 +726,8 @@
       "alt": "Carousel: five questions to ask at a parent's doctor visit.",
       "pin": true,
       "pin_title": "5 Questions to Ask at Your Parent's Doctor Appointment",
-      "pin_desc": "Caregiver checklist for doctor visits: what to watch at home, medicine changes, side effects, follow-up and after-hours numbers."
+      "pin_desc": "Caregiver checklist for doctor visits: what to watch at home, medicine changes, side effects, follow-up and after-hours numbers.",
+      "issue": 15
     },
     {
       "id": "n08",
@@ -743,7 +744,8 @@
       "lead": "Medicines, doctors, contacts. Start with those three.",
       "images": [
         "emily/focused.jpg"
-      ]
+      ],
+      "issue": 15
     },
     {
       "id": "e-r1",
