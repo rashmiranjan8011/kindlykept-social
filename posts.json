@@ -677,7 +677,7 @@
       "format": "carousel",
       "date": "2026-11-16",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "slides": [
         {
           "layout": "cover",
@@ -734,7 +734,7 @@
       "format": "single",
       "date": "2026-11-16",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "photo",
       "caption": "Emily started with three things: Mom's medicines, her doctors, and who to call. It took her twenty minutes.\n\nYou don't have to do it all tonight. Start with those three.\n\nEmily is a fictional character; her pictures are made with AI.",
       "tags": "#getorganized #caregivertips",
