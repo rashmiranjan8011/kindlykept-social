@@ -833,7 +833,8 @@
       "lead": "Some days it's true. A few notes a week help you tell which days.",
       "images": [
         "emily/main.jpg"
-      ]
+      ],
+      "issue": 17
     },
     {
       "id": "e-r2",
@@ -844,7 +845,8 @@
       "status": "draft",
       "caption": "Tag the sibling who asks this every single day.\n\nNobody knew if Mom took Thursday's pills. Not Emily, not Josh, not even Mom. So Emily made one plan the whole family can see.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
       "tags": "#siblings #familygroupchat",
-      "alt": "Emily's story: the family group chat about Mom's pills, and one shared care plan."
+      "alt": "Emily's story: the family group chat about Mom's pills, and one shared care plan.",
+      "issue": 17
     },
     {
       "id": "e-c2",
