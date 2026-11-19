@@ -853,7 +853,7 @@
       "format": "carousel",
       "date": "2026-11-19",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "slides": [
         {
           "layout": "cover",
@@ -916,7 +916,7 @@
       "format": "single",
       "date": "2026-11-19",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "pages",
       "pin": true,
       "kick": "Family Care Binder",
