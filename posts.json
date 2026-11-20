@@ -942,7 +942,8 @@
       "status": "draft",
       "caption": "One quiet Sunday morning, twenty minutes, and every bottle on the table.\n\nThree days later the pharmacy called Josh. For once, Emily had the answer in seconds.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nAn organizer, not medical advice.\n\nEmily is a fictional character; her pictures are made with AI.",
       "tags": "#sundayreset #medicationtracker",
-      "alt": "Emily spends twenty minutes writing down her mom's medicines, then answers her brother's question in seconds."
+      "alt": "Emily spends twenty minutes writing down her mom's medicines, then answers her brother's question in seconds.",
+      "issue": 19
     },
     {
       "id": "e-s2",
@@ -958,7 +959,8 @@
       "title": "Caring for Mom from far away means knowing everything without being there.",
       "images": [
         "emily/moved.jpg"
-      ]
+      ],
+      "issue": 19
     },
     {
       "id": "e-c3",
