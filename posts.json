@@ -967,7 +967,7 @@
       "format": "carousel",
       "date": "2026-11-21",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "slides": [
         {
           "layout": "cover",
@@ -1031,7 +1031,7 @@
       "format": "single",
       "date": "2026-11-21",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "photo",
       "caption": "Emily asks Mom every day if she ate. Today Josh asked Emily.\n\nThis one is for the caregiver. Eat something warm. Sit for five minutes. The list will wait.\n\nEmily is a fictional character; her pictures are made with AI.",
       "tags": "#caregiverselfcare #selfcare",
