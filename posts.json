@@ -1023,7 +1023,8 @@
       "alt": "Carousel: five papers to locate for an aging parent before an emergency.",
       "pin": true,
       "pin_title": "5 Important Papers to Find for Your Aging Parent Before an Emergency",
-      "pin_desc": "Insurance and Medicare cards, power of attorney, healthcare proxy, medicine list, doctors, and where bank and bill papers are kept."
+      "pin_desc": "Insurance and Medicare cards, power of attorney, healthcare proxy, medicine list, doctors, and where bank and bill papers are kept.",
+      "issue": 20
     },
     {
       "id": "e-s3",
@@ -1039,7 +1040,8 @@
       "title": "You ask Mom if she ate. Did you?",
       "images": [
         "emily/relieved.jpg"
-      ]
+      ],
+      "issue": 20
     },
     {
       "id": "e-c4",
