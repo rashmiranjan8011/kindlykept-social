@@ -1140,7 +1140,8 @@
       "status": "draft",
       "caption": "This Thursday, everyone is at one table. It might be the only time this year.\n\nTwenty minutes, before pie: how is Mom really doing, who does what, and where it all gets written down.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.\n\nEmily is a fictional character; her pictures are made with AI.",
       "tags": "#thanksgiving #familytalk",
-      "alt": "Emily visits her mom before Thanksgiving, notices bills and pills piling up, and asks the family for twenty minutes."
+      "alt": "Emily visits her mom before Thanksgiving, notices bills and pills piling up, and asks the family for twenty minutes.",
+      "issue": 22
     },
     {
       "id": "e-s4",
@@ -1157,7 +1158,8 @@
       "offer": "$29 · code CARE10 for $10 off · until Nov 30",
       "images": [
         "emily/happy.jpg"
-      ]
+      ],
+      "issue": 22
     },
     {
       "id": "n09",
