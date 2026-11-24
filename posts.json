@@ -1166,7 +1166,7 @@
       "format": "carousel",
       "date": "2026-11-24",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "slides": [
         {
           "layout": "cover",
@@ -1229,7 +1229,7 @@
       "format": "single",
       "date": "2026-11-24",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "offer",
       "caption": "Thursday, the family is together. Bring one plan to the table: medicines and refills, who helps on which day, who paid what, and the emergency sheet for the fridge.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
       "tags": "#thanksgiving #familycare",
