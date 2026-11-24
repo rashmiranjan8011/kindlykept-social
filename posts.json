@@ -1221,7 +1221,8 @@
       "alt": "Carousel: six gentle questions to ask an aging parent at Thanksgiving.",
       "pin": true,
       "pin_title": "6 Gentle Questions to Ask Your Aging Parent at Thanksgiving",
-      "pin_desc": "Conversation starters for adult children: medicines, the house, emergency contacts, papers, worries and what help they want."
+      "pin_desc": "Conversation starters for adult children: medicines, the house, emergency contacts, papers, worries and what help they want.",
+      "issue": 23
     },
     {
       "id": "n10",
@@ -1247,7 +1248,8 @@
         "Dashboard.png"
       ],
       "pin_title": "The Family Care Kit: One Plan for Caring for Mom or Dad",
-      "pin_desc": "Google Sheets and Excel family care hub, printable binder and emergency pack. Medicines, help sign-up, cost split and emergency info in one place."
+      "pin_desc": "Google Sheets and Excel family care hub, printable binder and emergency pack. Medicines, help sign-up, cost split and emergency info in one place.",
+      "issue": 23
     },
     {
       "id": "n11",
