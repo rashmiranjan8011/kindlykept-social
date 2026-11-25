@@ -1305,7 +1305,8 @@
       "alt": "Carousel: a five-part, twenty-minute family meeting agenda about a parent's care.",
       "pin": true,
       "pin_title": "20-Minute Family Meeting Agenda for Caring for an Aging Parent",
-      "pin_desc": "A simple Thanksgiving family talk: how Mom is doing, medicines and appointments, who does what, sharing costs, and the next check-in."
+      "pin_desc": "A simple Thanksgiving family talk: how Mom is doing, medicines and appointments, who does what, sharing costs, and the next check-in.",
+      "issue": 24
     },
     {
       "id": "n12",
@@ -1322,7 +1323,8 @@
       "lead": "Twenty minutes, before pie.",
       "images": [
         "emily/moved.jpg"
-      ]
+      ],
+      "issue": 24
     },
     {
       "id": "n13",
