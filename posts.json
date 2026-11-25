@@ -1256,7 +1256,7 @@
       "format": "carousel",
       "date": "2026-11-25",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "slides": [
         {
           "layout": "cover",
@@ -1313,7 +1313,7 @@
       "format": "single",
       "date": "2026-11-25",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "photo",
       "caption": "Tomorrow the whole family will be in one room. For many families, it is the only time all year.\n\nTwenty minutes, before pie. That is all it takes to start.\n\nEmily is a fictional character; her pictures are made with AI.",
       "tags": "#thanksgiving #familytalk",
