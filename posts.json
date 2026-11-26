@@ -1337,7 +1337,8 @@
       "tags": "#thanksgiving #caregiverappreciation",
       "alt": "Quote: To everyone caring for a parent this Thanksgiving: we see you.",
       "title": "To everyone caring for a parent this Thanksgiving: we see you.",
-      "lead": "Every ride, every refill, every “did you eat?” counts."
+      "lead": "Every ride, every refill, every “did you eat?” counts.",
+      "issue": 25
     },
     {
       "id": "n14",
@@ -1353,7 +1354,8 @@
       "title": "Grateful for small things: Mom's laugh, a quiet kitchen, a plan that works.",
       "images": [
         "emily/relieved.jpg"
-      ]
+      ],
+      "issue": 25
     },
     {
       "id": "n15",
