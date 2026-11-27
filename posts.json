@@ -1362,7 +1362,7 @@
       "format": "carousel",
       "date": "2026-11-27",
       "time": "09:00",
-      "status": "draft",
+      "status": "approved",
       "slides": [
         {
           "layout": "cover",
@@ -1433,7 +1433,7 @@
       "format": "single",
       "date": "2026-11-27",
       "time": "19:00",
-      "status": "draft",
+      "status": "approved",
       "layout": "quote",
       "caption": "If you buy one thing this weekend for your family, make it time back.\n\nThe Family Care Kit: $29, code CARE10 takes $10 off for the first 50 families, until November 30. Link in bio.",
       "tags": "#blackfriday #caregiverlife",
