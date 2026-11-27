@@ -1425,7 +1425,8 @@
       "alt": "Carousel: five parts of the Family Care Kit: calendar, care tasks, daily log, vitals, care plan.",
       "pin": true,
       "pin_title": "Family Care Kit: Calendar, Care Tasks, Daily Log and Vitals for Elderly Parents",
-      "pin_desc": "Inside the Family Care Kit: family calendar, care tasks, daily care log, vitals chart, care plan and family email templates. Google Sheets, Excel and print."
+      "pin_desc": "Inside the Family Care Kit: family calendar, care tasks, daily care log, vitals chart, care plan and family email templates. Google Sheets, Excel and print.",
+      "issue": 26
     },
     {
       "id": "n16",
@@ -1438,7 +1439,8 @@
       "tags": "#blackfriday #caregiverlife",
       "alt": "Quote: No doorbusters. No countdown clock. Just a calmer way to care for Mom.",
       "title": "No doorbusters. No countdown clock. Just a calmer way to care for Mom.",
-      "lead": "CARE10 takes $10 off, until November 30."
+      "lead": "CARE10 takes $10 off, until November 30.",
+      "issue": 26
     },
     {
       "id": "n17",
