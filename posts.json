@@ -1496,7 +1496,8 @@
       "alt": "Carousel: five steps to turn a family talk about a parent's care into a plan.",
       "pin": true,
       "pin_title": "After the Family Talk: 5 Steps to Turn It Into a Care Plan",
-      "pin_desc": "Make your family's caregiving plan stick: write it down, name an owner for each job, shared calendar, next check-in, and thank your parent."
+      "pin_desc": "Make your family's caregiving plan stick: write it down, name an owner for each job, shared calendar, next check-in, and thank your parent.",
+      "issue": 27
     },
     {
       "id": "n18",
@@ -1513,7 +1514,8 @@
       "lead": "Comment FRIDGE and we will send ours, free.",
       "images": [
         "Emergency-Pack-1.png"
-      ]
+      ],
+      "issue": 27
     },
     {
       "id": "n19",
